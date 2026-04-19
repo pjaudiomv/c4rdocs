@@ -1,0 +1,60 @@
+/**
+ * Site-wide overrides. Infima (Docusaurus's CSS framework) is already loaded.
+ */
+
+:root {
+  --ifm-color-primary: #2a6f97;
+  --ifm-color-primary-dark: #266486;
+  --ifm-color-primary-darker: #245e7e;
+  --ifm-color-primary-darkest: #1d4d68;
+  --ifm-color-primary-light: #2e7aa8;
+  --ifm-color-primary-lighter: #3180b0;
+  --ifm-color-primary-lightest: #3e8cbb;
+  --ifm-code-font-size: 95%;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.08);
+}
+
+[data-theme='dark'] {
+  --ifm-color-primary: #7eb3d6;
+  --ifm-color-primary-dark: #649fc5;
+  --ifm-color-primary-darker: #5795be;
+  --ifm-color-primary-darkest: #3f7a9e;
+  --ifm-color-primary-light: #98c3df;
+  --ifm-color-primary-lighter: #a5cce3;
+  --ifm-color-primary-lightest: #c5dced;
+  --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.3);
+}
+
+/* Tighten long FAQ category pages: compact H3 headings with lighter anchors. */
+.theme-doc-markdown h3 {
+  margin-top: 1.5rem;
+  padding-top: 0.5rem;
+  border-top: 1px solid var(--ifm-color-emphasis-200);
+}
+
+.theme-doc-markdown details {
+  margin-bottom: 1rem;
+  border: 1px solid var(--ifm-color-emphasis-200);
+  border-radius: 6px;
+  padding: 0.5rem 0.75rem;
+  background: var(--ifm-background-surface-color);
+}
+
+.theme-doc-markdown details[open] {
+  background: transparent;
+}
+
+.theme-doc-markdown details > summary {
+  cursor: pointer;
+  color: var(--ifm-color-primary);
+  font-size: 0.9rem;
+  outline: none;
+}
+
+.c4r-source {
+  margin-top: 1rem;
+  padding-top: 0.5rem;
+  border-top: 1px dashed var(--ifm-color-emphasis-200);
+  font-size: 0.85rem;
+  color: var(--ifm-color-emphasis-700);
+}

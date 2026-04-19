@@ -1,0 +1,9 @@
+{
+  "label": "Code Recipes",
+  "position": 4,
+  "link": {
+    "type": "generated-index",
+    "description": "Copy-pasteable code examples from real user questions."
+  },
+  "collapsed": false
+}
