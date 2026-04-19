@@ -8,7 +8,7 @@ tags: ["recipe", "meetings"]
 
 # [Feature Request]: Add Marijuana Anonymous
 
-> Managing Meetings • [Issue #1702](https://github.com/code4recovery/12-step-meeting-list/issues/1702) • _answer by @joshreisner_
+> Managing Meetings • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1702">Issue #1702</a> • _answer by @joshreisner_
 
 ## The question
 

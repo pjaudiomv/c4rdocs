@@ -8,7 +8,7 @@ tags: ["recipe", "meetings"]
 
 # [Bug]: PHP error e trim
 
-> Managing Meetings • [Issue #1673](https://github.com/code4recovery/12-step-meeting-list/issues/1673) • _answer by @joshreisner_
+> Managing Meetings • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1673">Issue #1673</a> • _answer by @joshreisner_
 
 ## The question
 

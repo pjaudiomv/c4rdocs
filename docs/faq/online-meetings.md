@@ -70,7 +70,7 @@ For a natively online meeting, the address must be approximate (i.e., no street)
 
 To resolve, simply change the address to be just the city and state, and you should see the temporarily inactive flag clear.
 
-<div class="c4r-source">Source: [Discussion #563](https://github.com/code4recovery/12-step-meeting-list/discussions/563)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/563">Discussion #563</a></div>
 
 </details>
 
@@ -94,7 +94,7 @@ The recommended option is to provide a valid Zoom link *or* a phone number (hint
 
 Keep in mind, natively online meetings expect to have approximate addresses. If you provide a complete specific address in addition to the online information, the meeting will display as being available to attend both in person and online (i.e., hybrid).
 
-<div class="c4r-source">Source: [Discussion #445](https://github.com/code4recovery/12-step-meeting-list/discussions/445)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/445">Discussion #445</a></div>
 
 </details>
 
@@ -136,7 +136,7 @@ TSML doesn't emphasize the term hybrid but it does use it in the notes. To creat
 
 Hopefully this answers your question.
 
-<div class="c4r-source">Source: [Discussion #525](https://github.com/code4recovery/12-step-meeting-list/discussions/525)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/525">Discussion #525</a></div>
 
 </details>
 
@@ -190,7 +190,7 @@ If you need further information, there are a number of Discussion threads coveri
 
 Please let us know if this resolves your issue, or you need further help.
 
-<div class="c4r-source">Source: [Discussion #737](https://github.com/code4recovery/12-step-meeting-list/discussions/737)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/737">Discussion #737</a></div>
 
 </details>
 
@@ -220,7 +220,7 @@ Hi Jeroen, I think almost all the types are subject to a certain amount of inter
 
 Looking back at [the history](https://github.com/code4recovery/12-step-meeting-list/commit/45ddb84d82e4d65acb2dcc089dcb6d63d7f40107#diff-9ec26a19ef0cbada8cdaeaf19e42bfb308f15ef75fe7bd7bef41ea003078f603R51), this was added in 2015 before any of the other literature types like Big Book, 12 & 12, Living Sober, etc., so I suspect it was originally considered a catch-all, and may still be used by some sites as that if they don't want to specify individual titles.
 
-<div class="c4r-source">Source: [Discussion #1229](https://github.com/code4recovery/12-step-meeting-list/discussions/1229)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1229">Discussion #1229</a></div>
 
 </details>
 
@@ -253,7 +253,7 @@ Hi Jeroen (@Strompf), Yes we do have a work-around for adding an online meeting 
 \}`.
 Long term, it might be best if we add Telegram to our internal provider listing in a future release. What does an example Telegram URL look like (eg https://telegram.online.meeting.us/join/12356789?pwd=12345)?
 
-<div class="c4r-source">Source: [Discussion #1230](https://github.com/code4recovery/12-step-meeting-list/discussions/1230)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1230">Discussion #1230</a></div>
 
 </details>
 
@@ -277,7 +277,7 @@ the recent style change made some things easier, like matching the fonts and col
 
 i think if there's a problem, like if something is confusing to users, then it's probably something we want to fix for all sites.
 
-<div class="c4r-source">Source: [Discussion #1253](https://github.com/code4recovery/12-step-meeting-list/discussions/1253)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1253">Discussion #1253</a></div>
 
 </details>
 
@@ -303,7 +303,7 @@ C4R members are discussing ways that we can improve time zone support, especiall
 
 For now, if you really want to spell it out, perhaps adding the timezones to the notes will work. However, I'm hopeful most people can Google or figure out PST
 
-<div class="c4r-source">Source: [Discussion #1269](https://github.com/code4recovery/12-step-meeting-list/discussions/1269)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1269">Discussion #1269</a></div>
 
 </details>
 
@@ -326,7 +326,7 @@ Any help would be much appreciated, thanks!
 Hi @calfreycreative,
 Questions similar to this have been asked before. See topic #1372 for a more detailed response with an alternative suggestion, but the quick answer is that the PDF generator  doesn't support online meetings.
 
-<div class="c4r-source">Source: [Discussion #1490](https://github.com/code4recovery/12-step-meeting-list/discussions/1490)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1490">Discussion #1490</a></div>
 
 </details>
 
@@ -350,7 +350,7 @@ What you are seeing is expected behavior. In order for TSML to feed good informa
 
 With the types of meetings you're describing, we typically recommend listing them separately on a different web page.
 
-<div class="c4r-source">Source: [Discussion #1622](https://github.com/code4recovery/12-step-meeting-list/discussions/1622)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1622">Discussion #1622</a></div>
 
 </details>
 
@@ -372,7 +372,7 @@ oops thanks should be fixed now, if you refresh
 
 ![Screenshot 2022-12-29 at 9 26 17 AM](https://user-images.githubusercontent.com/1551689/209988206-b31be76c-fdee-4810-be9c-18b865c893a3.png)
 
-<div class="c4r-source">Source: [Discussion #1020](https://github.com/code4recovery/12-step-meeting-list/discussions/1020)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1020">Discussion #1020</a></div>
 
 </details>
 
@@ -403,7 +403,7 @@ ok we've released `3.14.32` which should address this issue, let us know if you 
 
 we will follow up on having to click Publish twice in #1357
 
-<div class="c4r-source">Source: [Discussion #1353](https://github.com/code4recovery/12-step-meeting-list/discussions/1353)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1353">Discussion #1353</a></div>
 
 </details>
 
@@ -454,7 +454,7 @@ If you're still having issues, maybe post a screen shot of that part of the form
 
 Brian W.
 
-<div class="c4r-source">Source: [Discussion #614](https://github.com/code4recovery/12-step-meeting-list/discussions/614)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/614">Discussion #614</a></div>
 
 </details>
 
@@ -495,7 +495,7 @@ to group meetings at the same location together. this logic was added years ago,
 
 import order does not have an impact
 
-<div class="c4r-source">Source: [Discussion #648](https://github.com/code4recovery/12-step-meeting-list/discussions/648)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/648">Discussion #648</a></div>
 
 </details>
 
@@ -527,7 +527,7 @@ we should be doing a better job of surfacing errors on this page though, we have
 
 at any rate, try fixing the API key (or switch to mapbox) and let us know if that solves it for you, thanks
 
-<div class="c4r-source">Source: [Discussion #1202](https://github.com/code4recovery/12-step-meeting-list/discussions/1202)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1202">Discussion #1202</a></div>
 
 </details>
 
@@ -565,7 +565,7 @@ it is smart about which is the next meeting. for example, a Los Angeles visitor 
 
 we don't think it would be a good use of space to add the timezone in each row of the table. you're welcome to add a notice above the list, but our experience shows this is not necessary. this software is on lots of websites and users are not confused by it
 
-<div class="c4r-source">Source: [Discussion #1560](https://github.com/code4recovery/12-step-meeting-list/discussions/1560)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1560">Discussion #1560</a></div>
 
 </details>
 
@@ -587,7 +587,7 @@ could you give us an example of a real paypal address you want people to end up 
 
 we're also open to adding homegroup.online as a service provider assuming GSO is as well
 
-<div class="c4r-source">Source: [Discussion #1641](https://github.com/code4recovery/12-step-meeting-list/discussions/1641)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1641">Discussion #1641</a></div>
 
 </details>
 
@@ -621,7 +621,7 @@ if you prefer not to normalize you can set the default to blank, but it means al
 
 this is a longer restating of what the pictured label says, hope it helps clarify.
 
-<div class="c4r-source">Source: [Discussion #1847](https://github.com/code4recovery/12-step-meeting-list/discussions/1847)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1847">Discussion #1847</a></div>
 
 </details>
 
@@ -651,7 +651,7 @@ I'm not saying with certainty that you haven't found an issue with the plugin; j
 
 Also, what version of the plugin are you running?
 
-<div class="c4r-source">Source: [Issue #196](https://github.com/code4recovery/12-step-meeting-list/issues/196)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/196">Issue #196</a></div>
 
 </details>
 
@@ -675,7 +675,7 @@ This doesn't really impact the core of the request but as an FYI, HTML can't be 
 
 The only way to get tappable Zoom links into the app would be by adding new fields, and it sounds like the way to do that would be to create a companion plugin.
 
-<div class="c4r-source">Source: [Issue #72](https://github.com/code4recovery/12-step-meeting-list/issues/72)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/72">Issue #72</a></div>
 
 </details>
 
@@ -711,7 +711,7 @@ And can you confirm we're only talking about the two links in this section?
 
 &lt;img width="300" alt="image" src="https://user-images.githubusercontent.com/31904316/77928543-2a4ed580-726e-11ea-898a-27eb6063a03a.png"&gt;
 
-<div class="c4r-source">Source: [Issue #86](https://github.com/code4recovery/12-step-meeting-list/issues/86)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/86">Issue #86</a></div>
 
 </details>
 
@@ -737,7 +737,7 @@ I'll also admit I'm not an HTML expert.
 
 Thanks for the feedback.
 
-<div class="c4r-source">Source: [Issue #260](https://github.com/code4recovery/12-step-meeting-list/issues/260)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/260">Issue #260</a></div>
 
 </details>
 
@@ -767,7 +767,7 @@ We're not converting the time zone for the user (although there is a [request](h
 
 The solution we agreed to for Meeting Guide was also not to convert, but to display a message to the user when there's a discrepancy between the user's time zone and the website's time zone. That would be possible using javascript without any data model changes.
 
-<div class="c4r-source">Source: [Issue #266](https://github.com/code4recovery/12-step-meeting-list/issues/266)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/266">Issue #266</a></div>
 
 </details>
 
@@ -800,7 +800,7 @@ If you haven't already done so, turn on Wordpress debugging. There are plenty of
 
 Tim
 
-<div class="c4r-source">Source: [Issue #280](https://github.com/code4recovery/12-step-meeting-list/issues/280)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/280">Issue #280</a></div>
 
 </details>
 
@@ -840,7 +840,7 @@ I think they do stand out, quite a bit.
 
 I'm going to close this as it effectively duplicates item 1 in #376. We'll discuss flags, but I'm more concerned about putting some flags in parenthesis and others in bold. As I look at it again, it seems inconsistent.
 
-<div class="c4r-source">Source: [Issue #378](https://github.com/code4recovery/12-step-meeting-list/issues/378)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/378">Issue #378</a></div>
 
 </details>
 
@@ -875,7 +875,7 @@ If you still want them off your site, you’ll need to use CSS to hide them. Tha
 
 Good luck! And thanks for sharing your thoughts.
 
-<div class="c4r-source">Source: [Issue #389](https://github.com/code4recovery/12-step-meeting-list/issues/389)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/389">Issue #389</a></div>
 
 </details>
 
@@ -928,7 +928,7 @@ Have you made changes to your permalinks? It is a bit of a long shot, but please
 
 Sometimes we also see other plugins interfere with javascript functions. For example, I don't know what is providing your Instagram follow link, but perhaps disable it and other plugins (except TSML), reload the page, and then try the Zoom links. If they start working, the issue is probably a conflict.
 
-<div class="c4r-source">Source: [Issue #395](https://github.com/code4recovery/12-step-meeting-list/issues/395)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/395">Issue #395</a></div>
 
 </details>
 
@@ -976,7 +976,7 @@ Looking forward to hearing your results of this test.
 
 Brian W
 
-<div class="c4r-source">Source: [Issue #405](https://github.com/code4recovery/12-step-meeting-list/issues/405)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/405">Issue #405</a></div>
 
 </details>
 
@@ -1026,7 +1026,7 @@ _No response_
 
 Well, I have figured out what is wrong, I think.  I noticed map was not showing locations and was blank. I updated the API under import and settings and now I'm able to update a meeting with no problem.  However, the API flashes the map and them give error that "This page can't load Google Maps correctly".  For development purposes only
 
-<div class="c4r-source">Source: [Issue #578](https://github.com/code4recovery/12-step-meeting-list/issues/578)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/578">Issue #578</a></div>
 
 </details>
 
@@ -1065,7 +1065,7 @@ however we should reject if the zoom URL:
 * path does not start with `/j/` (or `/J/` which we fix)
 * path does not end with a 8-12 character number
 
-<div class="c4r-source">Source: [Issue #1500](https://github.com/code4recovery/12-step-meeting-list/issues/1500)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1500">Issue #1500</a></div>
 
 </details>
 
@@ -1091,7 +1091,7 @@ to echo what @gkovats is saying - meetings to be considered `Online` must have e
 
 some groups will put `https://zoom.us/join` in the URL field to get around this restriction, which isn't great for users. another, better, option which you can advise groups about is to publish most of the URL but withhold the password - eg `https://zoom.us/j/23904823` but leave out the `?pwd=930r238hf92uehfuehsdkfuus73832` to make people still need to get the password. we're looking at options for streamlining this process
 
-<div class="c4r-source">Source: [Issue #1716](https://github.com/code4recovery/12-step-meeting-list/issues/1716)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1716">Issue #1716</a></div>
 
 </details>
 
@@ -1124,7 +1124,7 @@ Thanks for the idea. This had been bounced around when online meetings started t
 
 I’m reply to your email with more thoughts as any new project like this would not fall directly under TSML.
 
-<div class="c4r-source">Source: [Discussion #529](https://github.com/code4recovery/12-step-meeting-list/discussions/529)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/529">Discussion #529</a></div>
 
 </details>
 
@@ -1146,7 +1146,7 @@ Doug
 
 Yes, Josh and Matt are presenting "Helping Online Intergroup Manage a Meeting Directory at Scale". Should be a really good presentation on the that project. I don't know if anyone else will be attending in person from Code for Recovery, but I think some may be online.
 
-<div class="c4r-source">Source: [Discussion #1190](https://github.com/code4recovery/12-step-meeting-list/discussions/1190)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1190">Discussion #1190</a></div>
 
 </details>
 
@@ -1176,7 +1176,7 @@ if (function_exists('tsml_custom_types')) \{
 
 it won't show up in the Meeting Guide mobile apps however
 
-<div class="c4r-source">Source: [Discussion #1305](https://github.com/code4recovery/12-step-meeting-list/discussions/1305)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1305">Discussion #1305</a></div>
 
 </details>
 
@@ -1199,7 +1199,7 @@ More specifically - I need to change the link in the hyperlink for the online Gr
 
 this doesn't look like it's our plugin. maybe it's in a widget? try going to Appearance &gt; Widgets and looking for Meeting Bottom
 
-<div class="c4r-source">Source: [Discussion #1456](https://github.com/code4recovery/12-step-meeting-list/discussions/1456)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1456">Discussion #1456</a></div>
 
 </details>
 
@@ -1228,7 +1228,7 @@ this experience however is much easier for a user, who only has to copy/remember
 
 could you give us a link to one of the affected meetings? we're curious what types of gatekeeping methods they are using. perhaps by seeing the message we might be able to devise some way forward that addresses everyone's concerns
 
-<div class="c4r-source">Source: [Discussion #1665](https://github.com/code4recovery/12-step-meeting-list/discussions/1665)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1665">Discussion #1665</a></div>
 
 </details>
 
@@ -1256,7 +1256,7 @@ Thank you for the link and observation. TSML has Zoom Join links (or other platf
 
 Let me know if there’s anything specific you were hoping to call out with the comparison.
 
-<div class="c4r-source">Source: [Discussion #1860](https://github.com/code4recovery/12-step-meeting-list/discussions/1860)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1860">Discussion #1860</a></div>
 
 </details>
 
@@ -1279,7 +1279,7 @@ Check out this discussion and see if it answers your question.
 
 Either way, please get back to us and let us know if it does or if it doesn't.
 
-<div class="c4r-source">Source: [Discussion #1694](https://github.com/code4recovery/12-step-meeting-list/discussions/1694)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1694">Discussion #1694</a></div>
 
 </details>
 

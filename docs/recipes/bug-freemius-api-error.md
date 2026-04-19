@@ -8,7 +8,7 @@ tags: ["recipe", "development"]
 
 # [Bug]: Freemius API error
 
-> Development & Hooks • [Issue #540](https://github.com/code4recovery/12-step-meeting-list/issues/540)
+> Development & Hooks • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/540">Issue #540</a>
 
 ## The question
 

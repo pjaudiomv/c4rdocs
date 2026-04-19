@@ -32,7 +32,7 @@ I recently went live with a new regional AA website. Throughout development, I h
 
 It occurred to me that the file should be updated every time a meeting is updated. I added a meeting, cleared the cache for good measure, and all the URLs in the data source were updated to no longer have the subdomain in them.
 
-<div class="c4r-source">Source: [Discussion #1431](https://github.com/code4recovery/12-step-meeting-list/discussions/1431)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1431">Discussion #1431</a></div>
 
 </details>
 
@@ -54,7 +54,7 @@ See https://www.wordfence.com/threat-intel/vulnerabilities/wordpress-plugins/12-
 
 @dvcb reports "This morning I heard back from Wordfence and they have updated their database.  I ran another scan with Wordfence Pro and it no longer complains about a vulnerability."
 
-<div class="c4r-source">Source: [Discussion #1320](https://github.com/code4recovery/12-step-meeting-list/discussions/1320)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1320">Discussion #1320</a></div>
 
 </details>
 
@@ -109,7 +109,7 @@ Based on the information, I'd say it is a bug or issue with Freemius.  Grab erro
 
 TSML doesn't use Freemius, and this message segment would indicate to me something with Wordpress or your site. `Your server is blocking the access to Freemius' API`
 
-<div class="c4r-source">Source: [Issue #540](https://github.com/code4recovery/12-step-meeting-list/issues/540)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/540">Issue #540</a></div>
 
 </details>
 
@@ -162,7 +162,7 @@ An error of type E_ERROR was caused in line 9 of the file /home/courtney/public_
 
 Changed this domain back to **PHP 7.4** and it corrected the update error. But...........is there a fix I can do to enable the use of this plugin with **PHP 8.0**..?? ( Obviously more desirable than regressing to PHP 7.4)
 
-<div class="c4r-source">Source: [Issue #593](https://github.com/code4recovery/12-step-meeting-list/issues/593)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/593">Issue #593</a></div>
 
 </details>
 
@@ -212,7 +212,7 @@ Add any other context about the problem here.
 
 @aanecswebmaster This sounds like a Permalink issue. This can be manually triggered by going into Settings-&gt;Permalinks and pressing Save. The action of updating plugins could have triggered the Permalink reset and fixed your problem.
 
-<div class="c4r-source">Source: [Issue #249](https://github.com/code4recovery/12-step-meeting-list/issues/249)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/249">Issue #249</a></div>
 
 </details>
 
@@ -253,7 +253,7 @@ Latest (default)
 
 Change Detection is now a core feature, having merged in 3.13.
 
-<div class="c4r-source">Source: [Issue #623](https://github.com/code4recovery/12-step-meeting-list/issues/623)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/623">Issue #623</a></div>
 
 </details>
 

@@ -8,7 +8,7 @@ tags: ["recipe", "import-export"]
 
 # [Bug]: Meeting import: confused #570 in Discussions
 
-> Import & Export • [Issue #575](https://github.com/code4recovery/12-step-meeting-list/issues/575)
+> Import & Export • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/575">Issue #575</a>
 
 ## The question
 

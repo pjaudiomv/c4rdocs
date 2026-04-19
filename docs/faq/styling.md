@@ -31,7 +31,7 @@ Thank you.
 
 I did install the updates to the plug-ins on my staging site and all I can see different was pdf which doesn’t currently work because it doesn’t recognize JSON feed. Was anything else done with the update?
 
-<div class="c4r-source">Source: [Discussion #549](https://github.com/code4recovery/12-step-meeting-list/discussions/549)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/549">Discussion #549</a></div>
 
 </details>
 
@@ -59,7 +59,7 @@ Hi @aajcounty, our systems automatically tag meetings with `Online`, `In-Person`
 
 We don't have a way to manually type these. This is an intentional choice for a good user experience; we don't want the information supplied about a meeting not to match up with its designation.
 
-<div class="c4r-source">Source: [Discussion #551](https://github.com/code4recovery/12-step-meeting-list/discussions/551)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/551">Discussion #551</a></div>
 
 </details>
 
@@ -92,7 +92,7 @@ Hi @conrac01 they are both `h2` tags, so you shouldn't need to change the code -
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1120](https://github.com/code4recovery/12-step-meeting-list/discussions/1120)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1120">Discussion #1120</a></div>
 
 </details>
 
@@ -128,7 +128,7 @@ body.tsml-ui .wp-site-blocks \{
 
 TSML UI uses h2 for semantic reasons, and that can't be overridden, but i can probably reset that font on my end to use the default font. (in the meantime you could also override that with CSS)
 
-<div class="c4r-source">Source: [Discussion #1227](https://github.com/code4recovery/12-step-meeting-list/discussions/1227)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1227">Discussion #1227</a></div>
 
 </details>
 
@@ -148,7 +148,7 @@ Thanks!
 
 Incidentally, I don't believe the plugin's is setting the hover color. So some other plugin's CSS or some other CSS would be causing this. So you'd have to be sure the CSS you're setting is not 'overridden' somehow by some other CSS.
 
-<div class="c4r-source">Source: [Discussion #1268](https://github.com/code4recovery/12-step-meeting-list/discussions/1268)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1268">Discussion #1268</a></div>
 
 </details>
 
@@ -181,7 +181,7 @@ body.tsml-meetings \{
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #653](https://github.com/code4recovery/12-step-meeting-list/discussions/653)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/653">Discussion #653</a></div>
 
 </details>
 
@@ -205,7 +205,7 @@ Thank you in advance for any thoughts/suggestions!
 
 ok! the [fix is out](https://github.com/code4recovery/tsml-ui/pull/363), if you refresh your browser window once or twice it should look correct
 
-<div class="c4r-source">Source: [Discussion #1367](https://github.com/code4recovery/12-step-meeting-list/discussions/1367)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1367">Discussion #1367</a></div>
 
 </details>
 
@@ -233,7 +233,7 @@ To change the text to red, add this to your stylesheet:
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1183](https://github.com/code4recovery/12-step-meeting-list/discussions/1183)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1183">Discussion #1183</a></div>
 
 </details>
 
@@ -259,7 +259,7 @@ div#meetings.container\{
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1411](https://github.com/code4recovery/12-step-meeting-list/discussions/1411)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1411">Discussion #1411</a></div>
 
 </details>
 
@@ -292,7 +292,7 @@ Kevin
 #tsml a \{ color: white \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1536](https://github.com/code4recovery/12-step-meeting-list/discussions/1536)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1536">Discussion #1536</a></div>
 
 </details>
 

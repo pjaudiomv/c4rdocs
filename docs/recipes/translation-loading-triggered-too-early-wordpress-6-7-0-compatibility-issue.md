@@ -8,7 +8,7 @@ tags: ["recipe", "getting-started"]
 
 # Translation loading triggered too early - WordPress 6.7.0+ compatibility issue
 
-> Getting Started • [Issue #1784](https://github.com/code4recovery/12-step-meeting-list/issues/1784) • _answer by @joshreisner_
+> Getting Started • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1784">Issue #1784</a> • _answer by @joshreisner_
 
 ## The question
 

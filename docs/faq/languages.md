@@ -42,7 +42,7 @@ if (function_exists('tsml_custom_types')) \{
 
 If you do that, your Meeting Guide Online URL would become `https://aaunityportugal.org/aa-meetings/?type=english-language`
 
-<div class="c4r-source">Source: [Discussion #1119](https://github.com/code4recovery/12-step-meeting-list/discussions/1119)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1119">Discussion #1119</a></div>
 
 </details>
 
@@ -81,7 +81,7 @@ as for the longer term feature request, we usually tend to prioritize the experi
 
 we'll also want to discuss it with the General Service Office about the Meeting Guide app so that the user interfaces can have some parity.
 
-<div class="c4r-source">Source: [Discussion #1168](https://github.com/code4recovery/12-step-meeting-list/discussions/1168)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1168">Discussion #1168</a></div>
 
 </details>
 
@@ -120,7 +120,7 @@ When I added the following code to my functions.php in my child theme, it made t
     ));
 \}`
 
-<div class="c4r-source">Source: [Discussion #1395](https://github.com/code4recovery/12-step-meeting-list/discussions/1395)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1395">Discussion #1395</a></div>
 
 </details>
 
@@ -162,7 +162,7 @@ That's _if_ you have access to your system files. I just tried it, and a good pa
 
 Let me know if this helps. I can't help with your submissions on translate.wordpress, but this middle step may get you going.
 
-<div class="c4r-source">Source: [Discussion #1401](https://github.com/code4recovery/12-step-meeting-list/discussions/1401)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1401">Discussion #1401</a></div>
 
 </details>
 
@@ -199,7 +199,7 @@ if (function_exists('tsml_custom_descriptions')) \{
 
 Let us know if this works for you...
 
-<div class="c4r-source">Source: [Discussion #1834](https://github.com/code4recovery/12-step-meeting-list/discussions/1834)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1834">Discussion #1834</a></div>
 
 </details>
 
@@ -221,7 +221,7 @@ Hi @WebTri2022 , doesn't look like TSML UI is enabled on [your website](https://
 
 Just to note, the "legacy UI" TSML also supports Spanish. You would enable that by installing a translation plugin like [Polylang](https://wordpress.org/plugins/polylang/). This might be a job for a web servant, if you have one, who could test it out on a demo site before enabling it on your main website. Once enabled, it would allow Spanish-language visitors to experience a fully-translated website experience.
 
-<div class="c4r-source">Source: [Discussion #878](https://github.com/code4recovery/12-step-meeting-list/discussions/878)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/878">Discussion #878</a></div>
 
 </details>
 
@@ -263,7 +263,7 @@ typically people access `wp-config.php` through their hosting control panel or S
 
 i haven't heard of any issues between woocommerce and our plugin. could you be more specific about what the issue is that you're seeing?
 
-<div class="c4r-source">Source: [Issue #1582](https://github.com/code4recovery/12-step-meeting-list/issues/1582)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1582">Issue #1582</a></div>
 
 </details>
 
@@ -446,7 +446,7 @@ And here is the translation for the types.json file:
 
 …
 
-<div class="c4r-source">Source: [Discussion #1846](https://github.com/code4recovery/12-step-meeting-list/discussions/1846)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1846">Discussion #1846</a></div>
 
 </details>
 
@@ -477,7 +477,7 @@ If you have any questions, just comment here. Thank you!
 
 Please consider this demand. I've spent several hours trying to deal with the Wp french translation team. They are really uptight. I've spent several hours trying to set this up and I'm not happy about it. Now we are using the po file copyed into the 12sml langage folder but we would like to make it easier. Anyway, I'm kind of upset right now. And by the way, I've created a pull request. Could you please consider it and either merge it or delete it. Anyway, thank you.
 
-<div class="c4r-source">Source: [Issue #292](https://github.com/code4recovery/12-step-meeting-list/issues/292)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/292">Issue #292</a></div>
 
 </details>
 
@@ -514,7 +514,7 @@ Do you have access to your theme?
 
 Try adding `$tsml_slug = 'meetings';` somewhere in your theme's functions.php file. This should return the URL to `/meetings`
 
-<div class="c4r-source">Source: [Discussion #455](https://github.com/code4recovery/12-step-meeting-list/discussions/455)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/455">Discussion #455</a></div>
 
 </details>
 
@@ -543,7 +543,7 @@ Hopefully that helps!
 
 Tim
 
-<div class="c4r-source">Source: [Discussion #1243](https://github.com/code4recovery/12-step-meeting-list/discussions/1243)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1243">Discussion #1243</a></div>
 
 </details>
 

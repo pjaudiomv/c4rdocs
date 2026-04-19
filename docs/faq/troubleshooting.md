@@ -63,7 +63,7 @@ I'm not saying this won't work, or that it would cause problems, but it strikes 
 
 Let me know if these steps resolve your issues.
 
-<div class="c4r-source">Source: [Discussion #527](https://github.com/code4recovery/12-step-meeting-list/discussions/527)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/527">Discussion #527</a></div>
 
 </details>
 
@@ -124,7 +124,7 @@ I recommend using `Ariel Way, London W12 7GF, UK` as the address for the meeting
 
 PHP version should not be a factor here.
 
-<div class="c4r-source">Source: [Discussion #490](https://github.com/code4recovery/12-step-meeting-list/discussions/490)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/490">Discussion #490</a></div>
 
 </details>
 
@@ -150,7 +150,7 @@ Unfortunately, that is not working for this problem. Re-creating it just brings 
 
 Try using the classic widget plugin. I found when upgrading to 5.8 that the new widget blocks broke most of my html widgets as it tried to convert them to these ugly blocks. It didn’t just affect tsml. Once broken you will have to redo it unless you can restore from backup.
 
-<div class="c4r-source">Source: [Discussion #523](https://github.com/code4recovery/12-step-meeting-list/discussions/523)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/523">Discussion #523</a></div>
 
 </details>
 
@@ -177,7 +177,7 @@ Nicky
 Hi Nicky,
 I tend to agree with you. I can't think of a reasonable explanation why it would be necessary to change the meeting time when altering the meeting day. It may be that no one ever brought it up before. We will discuss and if the team agrees with us, then this discussion topic will get transferred to the issues list for action.  Thanks for bringing it up...
 
-<div class="c4r-source">Source: [Discussion #652](https://github.com/code4recovery/12-step-meeting-list/discussions/652)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/652">Discussion #652</a></div>
 
 </details>
 
@@ -203,7 +203,7 @@ there are two things that could cause this:
 
 we might be able to say more if you share your website URL with us
 
-<div class="c4r-source">Source: [Discussion #1005](https://github.com/code4recovery/12-step-meeting-list/discussions/1005)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1005">Discussion #1005</a></div>
 
 </details>
 
@@ -234,7 +234,7 @@ al-anon.alateen.on.ca
 
 @OSAwebsite, One method you might use to verify the proper mail function is to add a new user to WordPress. WordPress will send out an email in this process. This would verify that the native WordPress mail is functioning correctly. The 12 Step plugin uses this same method to send mail. For security, many hosting companies turn native SMTP access off and suggest using your mail system to send mail. A good plugin for this is https://wordpress.org/plugins/post-smtp/. This plugin will allow you to send mail through your own account and can help in testing. This problem is definitely a WordPress and hosting issue.
 
-<div class="c4r-source">Source: [Discussion #1011](https://github.com/code4recovery/12-step-meeting-list/discussions/1011)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1011">Discussion #1011</a></div>
 
 </details>
 
@@ -269,7 +269,7 @@ another thing you can do to hide the warning is set `WP_DEBUG` to `false` in you
 
 finally you could try switching the user interface to TSML UI
 
-<div class="c4r-source">Source: [Discussion #1025](https://github.com/code4recovery/12-step-meeting-list/discussions/1025)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1025">Discussion #1025</a></div>
 
 </details>
 
@@ -300,7 +300,7 @@ url is https://heroinanonymous.org/meetings/
 
 So I was able to replicate the issue as soon as the Bodega theme was installed, before installing any of the other plugins. As I don't have a license for that theme, can you advise if there are any updates available? I went ahead and installed all of the required plugins for the Bodega theme and there wasn't any change on the behavior of the dropdown regions list scrolling. When testing against all the other themes, they behaved correctly which confirmed my thinking that it's the Bodega theme causing the problem. Looking at the Developer Console on the meetings page, I'm seeing this error: "**bodega.test/wp-content/themes/bodega/img/logo.png:1     Failed to load resource: net::ERR_NAME_NOT_RESOLVED**". Looks like some theme developer code that should have been removed before releasing the theme. I would think you should contact the Envato Market team to get a patch or fix for this issue.  Hope this helps resolve your issue.
 
-<div class="c4r-source">Source: [Discussion #1140](https://github.com/code4recovery/12-step-meeting-list/discussions/1140)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1140">Discussion #1140</a></div>
 
 </details>
 
@@ -334,7 +334,7 @@ hi @dcfnet yes the TSML UI appearance only has the capability of forming a `mail
 
 using commas appears to still be the [recommended way to specify multiple recipients](https://blog.hubspot.com/website/html-mailto) in a `mailto` link. i don't have access to outlook unfortunately to confirm that there's an issue there, but if you're concerned about your users you could also create a single email alias like `feedback@aavirginia.org` that forwards to both recipients
 
-<div class="c4r-source">Source: [Discussion #1215](https://github.com/code4recovery/12-step-meeting-list/discussions/1215)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1215">Discussion #1215</a></div>
 
 </details>
 
@@ -368,7 +368,7 @@ If you only just added the type, perhaps they haven't picked it up yet?
 
 If you did add this type more than 12 hours ago, follow up directly with the meeting app support team ( appsupport@aa.org )
 
-<div class="c4r-source">Source: [Discussion #1742](https://github.com/code4recovery/12-step-meeting-list/discussions/1742)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1742">Discussion #1742</a></div>
 
 </details>
 
@@ -394,7 +394,7 @@ I'm not seeing the image you tried to attach. That might be helpful. Can you try
 
 I'm also curious, how did you get the meetings into this site? Did they come from CSV file(s)? Feed(s) on the Imports & Settings page? Other?
 
-<div class="c4r-source">Source: [Discussion #731](https://github.com/code4recovery/12-step-meeting-list/discussions/731)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/731">Discussion #731</a></div>
 
 </details>
 
@@ -427,7 +427,7 @@ http://lucasg11.sg-host.com/meetings/
 
 —Reply to this email directly, view it on GitHub, or unsubscribe.You are receiving this because you are subscribed to this thread.Message ID: ***@***.***&gt;
 
-<div class="c4r-source">Source: [Discussion #918](https://github.com/code4recovery/12-step-meeting-list/discussions/918)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/918">Discussion #918</a></div>
 
 </details>
 
@@ -451,7 +451,7 @@ This is what shows up, the circled area is the section  ant removed.
 
 If it’s not an open AA meeting, then uncheck open as a type.
 
-<div class="c4r-source">Source: [Discussion #647](https://github.com/code4recovery/12-step-meeting-list/discussions/647)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/647">Discussion #647</a></div>
 
 </details>
 
@@ -469,7 +469,7 @@ I'm running into an issue where tsml_scan_data_source() is a part of our schedul
 
 hi @Nickjones818 - i believe that job only scans the data source and notifies you by email if there's a change, it doesn't actually refresh the data source automatically
 
-<div class="c4r-source">Source: [Discussion #748](https://github.com/code4recovery/12-step-meeting-list/discussions/748)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/748">Discussion #748</a></div>
 
 </details>
 
@@ -487,7 +487,7 @@ I cannot login or access meeting plugin when activated Wordpress email said this
 
 I fixed it, by updating my php verson from 7.2 to 8.4 thank you
 
-<div class="c4r-source">Source: [Discussion #1598](https://github.com/code4recovery/12-step-meeting-list/discussions/1598)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1598">Discussion #1598</a></div>
 
 </details>
 
@@ -515,7 +515,7 @@ This is also an issue for meetings from several data sources on https://aavirgin
 
 ah that's super helpful thanks - the `entity` field that appears changed for these meetings does contain an apostrophe. we'll push an update soon that should resolve it 🤞
 
-<div class="c4r-source">Source: [Discussion #1599](https://github.com/code4recovery/12-step-meeting-list/discussions/1599)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1599">Discussion #1599</a></div>
 
 </details>
 
@@ -537,7 +537,7 @@ Changed the program to drug addicts anonymous and the selection changes.
 That allows an entry under 'type'.
 Now the page works!
 
-<div class="c4r-source">Source: [Discussion #1623](https://github.com/code4recovery/12-step-meeting-list/discussions/1623)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1623">Discussion #1623</a></div>
 
 </details>
 
@@ -589,7 +589,7 @@ yes judging by your site name, your timezone should be set to `America/New_York`
 
 in the future please [create a discussion](https://github.com/code4recovery/12-step-meeting-list/discussions) rather than filing a new ticket, thanks!
 
-<div class="c4r-source">Source: [Issue #1435](https://github.com/code4recovery/12-step-meeting-list/issues/1435)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1435">Issue #1435</a></div>
 
 </details>
 
@@ -636,7 +636,7 @@ So your first concern is that you don’t see the meeting list, you may need to 
 
 Any new instances of the Upcoming Meetings widget need to be created in a Wordpress Legacy Widget block. Try that and see if you’re able to get them back.
 
-<div class="c4r-source">Source: [Discussion #1063](https://github.com/code4recovery/12-step-meeting-list/discussions/1063)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1063">Discussion #1063</a></div>
 
 </details>
 
@@ -661,7 +661,7 @@ Thanks in advance.
 Hi @John-L,
 I've tested this on Firefox version 112.0.2 and while the PDF Meeting List does default in a single column, it is a simple matter to click on the tools menu and change the Spreads option from No Spreads to Odd Spreads which will give you the desired two column display. As this is not a Code For Recovery issue but a feature of Firefox I will be closing this discussion.
 
-<div class="c4r-source">Source: [Discussion #1136](https://github.com/code4recovery/12-step-meeting-list/discussions/1136)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1136">Discussion #1136</a></div>
 
 </details>
 
@@ -694,7 +694,7 @@ If you provide some screen shots or addition data on what you're trying to enter
 
 If we're sure the data is valid, then we'll have to dig further.
 
-<div class="c4r-source">Source: [Discussion #1181](https://github.com/code4recovery/12-step-meeting-list/discussions/1181)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1181">Discussion #1181</a></div>
 
 </details>
 
@@ -713,7 +713,7 @@ I have a meeting on our Intergroup site aaspokane.org that syncs with area92aa.o
 Hi Dan,
 There's probably some slight difference in the way the meetings are stored in their respective database. Probably some hidden character that can't be discerned by the naked eye. You're in luck though as we will be publishing a major maintenance release which we hope will resolve or at least provide more information as to why the meeting is showing up on the change detected email. Hang in there for a few days, and let us know if the upcoming 3.15 release fixes this issue for you.
 
-<div class="c4r-source">Source: [Discussion #1496](https://github.com/code4recovery/12-step-meeting-list/discussions/1496)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1496">Discussion #1496</a></div>
 
 </details>
 
@@ -739,7 +739,7 @@ i don't think using the PDF generator should add any special burden on the websi
 
 are you still seeing the error on your end? when i am dealing with a website that is experiencing intermittent issues i'll set up a free monitor at uptimerobot.com, this can tell you how often the site goes down and for how long
 
-<div class="c4r-source">Source: [Discussion #1552](https://github.com/code4recovery/12-step-meeting-list/discussions/1552)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1552">Discussion #1552</a></div>
 
 </details>
 
@@ -778,7 +778,7 @@ wrote:
 &gt; @github.com&gt;
 &gt;
 
-<div class="c4r-source">Source: [Discussion #1579](https://github.com/code4recovery/12-step-meeting-list/discussions/1579)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1579">Discussion #1579</a></div>
 
 </details>
 
@@ -801,7 +801,7 @@ i'd also be interested to know what all these console warnings are about - it lo
 
 &lt;img width="1728" height="1084" alt="Screenshot 2026-04-10 at 2 22 25 PM" src="https://github.com/user-attachments/assets/34a7a981-38c0-4db3-8c08-c4195a41079c" /&gt;
 
-<div class="c4r-source">Source: [Discussion #1916](https://github.com/code4recovery/12-step-meeting-list/discussions/1916)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1916">Discussion #1916</a></div>
 
 </details>
 
@@ -825,7 +825,7 @@ we should cast the input as numeric, but also check that it is in the distances 
 
 hello @wamotechservices that's is a different issue - TSML UI does not support displaying districts in the dropdown, although you can search for them and find them on meeting detail pages. you may want to switch back to Legacy UI, or create your own method of navigating to districts using searches.
 
-<div class="c4r-source">Source: [Issue #1753](https://github.com/code4recovery/12-step-meeting-list/issues/1753)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1753">Issue #1753</a></div>
 
 </details>
 
@@ -857,7 +857,7 @@ Yes, TSML doesn't include the Groups/Locations as separate screens in the menu, 
 
 This is an experimental feature in TSML Xtras that isn't available yet, but may be on the roadmap.
 
-<div class="c4r-source">Source: [Discussion #1242](https://github.com/code4recovery/12-step-meeting-list/discussions/1242)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1242">Discussion #1242</a></div>
 
 </details>
 
@@ -890,7 +890,7 @@ For faster performance, we have a JSON cache of the meeting data. My guess is th
 
 I think we probably just need to add a callback for the `wp_untrash_post` hook and run `tsml_cache_rebuild()` inside of it.
 
-<div class="c4r-source">Source: [Issue #56](https://github.com/code4recovery/12-step-meeting-list/issues/56)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/56">Issue #56</a></div>
 
 </details>
 
@@ -916,7 +916,7 @@ I would guess 95% of sites running it are on 5.x. Let's look and see if we can r
 
 Also we should finalize our geocoding plan first if a segment of users won't get updates anymore.
 
-<div class="c4r-source">Source: [Issue #60](https://github.com/code4recovery/12-step-meeting-list/issues/60)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/60">Issue #60</a></div>
 
 </details>
 
@@ -940,7 +940,7 @@ Please use our [Wordpress Plugin Support Page](https://wordpress.org/support/plu
 
 Thanks.
 
-<div class="c4r-source">Source: [Issue #85](https://github.com/code4recovery/12-step-meeting-list/issues/85)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/85">Issue #85</a></div>
 
 </details>
 
@@ -977,7 +977,7 @@ A new entry box is probably going to be more work than including the meeting det
 Thanks,
 Nicky
 
-<div class="c4r-source">Source: [Issue #112](https://github.com/code4recovery/12-step-meeting-list/issues/112)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/112">Issue #112</a></div>
 
 </details>
 
@@ -1024,7 +1024,7 @@ I just tried looking at your meeting list and I'm now getting this:
 
 This is almost always due to an issue with permalinks. Have you tried going into the permalinks page and re-saving the settings?
 
-<div class="c4r-source">Source: [Issue #134](https://github.com/code4recovery/12-step-meeting-list/issues/134)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/134">Issue #134</a></div>
 
 </details>
 
@@ -1059,7 +1059,7 @@ It appears the issue you're experiencing is likely related to the SuperFish plug
 
 &lt;img width="1423" alt="image" src="https://user-images.githubusercontent.com/31904316/95368773-2eeaeb00-089c-11eb-8927-c07b50067df5.png"&gt;
 
-<div class="c4r-source">Source: [Issue #175](https://github.com/code4recovery/12-step-meeting-list/issues/175)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/175">Issue #175</a></div>
 
 </details>
 
@@ -1109,7 +1109,7 @@ Add any other context about the problem here.
 
 I just updated this plug-in and am having the same issue.  I am unable to get to wp-admin dashboard.  The webpage comes up blank.  I had to call GoDaddy and they renamed the folder for now and this deactivated the plugin.  This file contains all the meetings in my district that I entered manually.  Please help!
 
-<div class="c4r-source">Source: [Issue #205](https://github.com/code4recovery/12-step-meeting-list/issues/205)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/205">Issue #205</a></div>
 
 </details>
 
@@ -1157,7 +1157,7 @@ Add any other context about the problem here.
 
 With this option you may be able to use the React interface. Instructions for setup are here: https://github.com/code4recovery/react
 
-<div class="c4r-source">Source: [Issue #221](https://github.com/code4recovery/12-step-meeting-list/issues/221)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/221">Issue #221</a></div>
 
 </details>
 
@@ -1183,7 +1183,7 @@ Please provide standard information like website link (Houston, TX?), Wordpress 
 
 My quick suspicion is that this is related to another plugin causing issues with jQuery Migrate. Once I have your website link I can see if I can duplicate the issue. If I'm not able to duplicate (which if it is aahouston.org, another our members already reported he cannot duplicate the issue on three different browsers) it, then please try different browsers/computers to see if the issue goes away.
 
-<div class="c4r-source">Source: [Issue #270](https://github.com/code4recovery/12-step-meeting-list/issues/270)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/270">Issue #270</a></div>
 
 </details>
 
@@ -1208,7 +1208,7 @@ I confess I don't personally use this feature, but am pretty sure right now the 
 
 Let's start by confirming the correct PayPal.me user page.
 
-<div class="c4r-source">Source: [Issue #309](https://github.com/code4recovery/12-step-meeting-list/issues/309)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/309">Issue #309</a></div>
 
 </details>
 
@@ -1280,7 +1280,7 @@ But that's ODD to me.
 
 This way the next meeting is always at the top of the list (unless you filter to show specific days).
 
-<div class="c4r-source">Source: [Issue #372](https://github.com/code4recovery/12-step-meeting-list/issues/372)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/372">Issue #372</a></div>
 
 </details>
 
@@ -1321,7 +1321,7 @@ I am also on a PC and the update feature works fine for me. As of yesterday Meet
 
 @A46webchair A quick look at our code doesn't show that we update this field directly. This is a function of WordPress. I suggest manually looking at the post_date, post_modified fields in your database to see if they are updating properly.
 
-<div class="c4r-source">Source: [Issue #386](https://github.com/code4recovery/12-step-meeting-list/issues/386)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/386">Issue #386</a></div>
 
 </details>
 
@@ -1367,7 +1367,7 @@ unknown
 
 @CheriJones this all looks correct! It's just not a feature we currently have. Does seem like an oversight. I don't recall it coming up before though.
 
-<div class="c4r-source">Source: [Issue #503](https://github.com/code4recovery/12-step-meeting-list/issues/503)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/503">Issue #503</a></div>
 
 </details>
 
@@ -1417,7 +1417,7 @@ _No response_
 gets to the generator page then... Returns a new error...
 ![Screenshot 2021-10-03 at 17-27-43 PDF Generator](https://user-images.githubusercontent.com/38595503/135778871-5ce966aa-15bc-4eee-a77a-94f0016739dc.png)
 
-<div class="c4r-source">Source: [Issue #544](https://github.com/code4recovery/12-step-meeting-list/issues/544)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/544">Issue #544</a></div>
 
 </details>
 
@@ -1467,7 +1467,7 @@ would become :
 https://aa89.org/wordpress/?post_type=tsml_meeting
 solved it for me :)
 
-<div class="c4r-source">Source: [Issue #553](https://github.com/code4recovery/12-step-meeting-list/issues/553)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/553">Issue #553</a></div>
 
 </details>
 
@@ -1529,7 +1529,7 @@ wrote:
 &gt; ***@***.***&gt;
 &gt;
 
-<div class="c4r-source">Source: [Issue #688](https://github.com/code4recovery/12-step-meeting-list/issues/688)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/688">Issue #688</a></div>
 
 </details>
 
@@ -1615,7 +1615,7 @@ On Wed, Apr 27, 2022 at 1:17 PM 97eighty ***@***.***&gt; wrote:
 *MOBILE:* (717) 333-4277
 *WEB: *www.axiomwebworks.com
 
-<div class="c4r-source">Source: [Issue #791](https://github.com/code4recovery/12-step-meeting-list/issues/791)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/791">Issue #791</a></div>
 
 </details>
 
@@ -1661,7 +1661,7 @@ would you be able to enable `WP_DEBUG` temporarily to see what the error is? go 
 define('WP_DEBUG', true);
 ```
 
-<div class="c4r-source">Source: [Issue #1592](https://github.com/code4recovery/12-step-meeting-list/issues/1592)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1592">Issue #1592</a></div>
 
 </details>
 
@@ -1689,7 +1689,7 @@ I have no objection. This simplifies things. And perhaps the wording will be bet
 
 I know some orgs have figured out how to hide Issues from the general users. Last I tried, I couldn't figure that out.
 
-<div class="c4r-source">Source: [Issue #1732](https://github.com/code4recovery/12-step-meeting-list/issues/1732)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1732">Issue #1732</a></div>
 
 </details>
 
@@ -1718,7 +1718,7 @@ in shortcodes.php makes it work again. This tells it to include the script in th
 wp_enqueue_script('tsml_ui', $js, [], false, true);
 ```
 
-<div class="c4r-source">Source: [Discussion #713](https://github.com/code4recovery/12-step-meeting-list/discussions/713)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/713">Discussion #713</a></div>
 
 </details>
 
@@ -1745,7 +1745,7 @@ if you put the URL through jsonlint.com or meetingguide.org/validate does it wor
 
 this can happen if the site has sitelock enabled. they have to 'whitelist' your URL to allow it, otherwise it shows a non-JSON error message, triggering the error
 
-<div class="c4r-source">Source: [Discussion #946](https://github.com/code4recovery/12-step-meeting-list/discussions/946)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/946">Discussion #946</a></div>
 
 </details>
 
@@ -1780,7 +1780,7 @@ Hi @julien-paris - we haven't made any changes to this area of the plugin in a l
 
 Are you using a plugin to send emails from your site? I just sent a test email.
 
-<div class="c4r-source">Source: [Discussion #1040](https://github.com/code4recovery/12-step-meeting-list/discussions/1040)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1040">Discussion #1040</a></div>
 
 </details>
 
@@ -1799,7 +1799,7 @@ Hi! Does anyone have any experience strength and hope on feedback from the group
 
 hi @ATLCOTech it might be good to get a little more info about the specific objection, perhaps they don't like the way the chat feature is branded and has the message at the bottom? you might ask if they like the presentation of the chat feature on https://aasfmarin.org/ or https://aasanjose.org better? the use a different service which is a little more discreet
 
-<div class="c4r-source">Source: [Discussion #1410](https://github.com/code4recovery/12-step-meeting-list/discussions/1410)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1410">Discussion #1410</a></div>
 
 </details>
 
@@ -1849,7 +1849,7 @@ i'm with @tim-rohrer  - i've never seen this type of issue before. are you able 
 
 also wonder what other plugins your site might have installed? this might help us reproduce the issue
 
-<div class="c4r-source">Source: [Discussion #1617](https://github.com/code4recovery/12-step-meeting-list/discussions/1617)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1617">Discussion #1617</a></div>
 
 </details>
 
@@ -1875,7 +1875,7 @@ But that header is on other pages. Not sure how adding more space would help, bu
 &lt;/style&gt;
 ```
 
-<div class="c4r-source">Source: [Discussion #1697](https://github.com/code4recovery/12-step-meeting-list/discussions/1697)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1697">Discussion #1697</a></div>
 
 </details>
 
@@ -1899,7 +1899,7 @@ Thanks April. This is something we could discuss internally about supporting thi
 
 Are you thinking the audience for such a workshop would be developers or people looking for help?
 
-<div class="c4r-source">Source: [Discussion #1851](https://github.com/code4recovery/12-step-meeting-list/discussions/1851)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1851">Discussion #1851</a></div>
 
 </details>
 
@@ -1954,7 +1954,7 @@ document.addEventListener('DOMContentLoaded', function () \{
 $tsml_feedback_url = '../SLUG-OF-FORM-PAGE';
 ```
 
-<div class="c4r-source">Source: [Discussion #1905](https://github.com/code4recovery/12-step-meeting-list/discussions/1905)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1905">Discussion #1905</a></div>
 
 </details>
 
@@ -1977,7 +1977,7 @@ If you're talking about 12 Step Meeting List plugin PDF page, please provide spe
 
 Thanks.
 
-<div class="c4r-source">Source: [Issue #336](https://github.com/code4recovery/12-step-meeting-list/issues/336)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/336">Issue #336</a></div>
 
 </details>
 
@@ -2003,7 +2003,7 @@ this should be fixed now by https://github.com/code4recovery/12-step-meeting-lis
 
 thanks @gkovats !!
 
-<div class="c4r-source">Source: [Issue #1266](https://github.com/code4recovery/12-step-meeting-list/issues/1266)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1266">Issue #1266</a></div>
 
 </details>
 
@@ -2023,7 +2023,7 @@ a user in #1341 reported an issue deleting the plugin, and i saw that too when t
 
 this should be fixed now in `3.14.30` (just released). thanks @gkovats !
 
-<div class="c4r-source">Source: [Issue #1342](https://github.com/code4recovery/12-step-meeting-list/issues/1342)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1342">Issue #1342</a></div>
 
 </details>
 
@@ -2059,7 +2059,7 @@ _No response_
 
 Encountered no problems testing 3.14.32 on two sites using WP 6.5 RC3. Did not have time to explore the role permission issue seen by @kiyote33
 
-<div class="c4r-source">Source: [Issue #1390](https://github.com/code4recovery/12-step-meeting-list/issues/1390)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1390">Issue #1390</a></div>
 
 </details>
 
@@ -2103,7 +2103,7 @@ yes, thanks @gkovats !
 
 this fix has been released in `3.16.13`
 
-<div class="c4r-source">Source: [Issue #1614](https://github.com/code4recovery/12-step-meeting-list/issues/1614)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1614">Issue #1614</a></div>
 
 </details>
 
@@ -2123,7 +2123,7 @@ https://www.fayaa.org/ reporting an error when updating the plugin:
 
 right - thank you so much for joining github! yes i think contacting your hosting provider and getting them to resolve is the way forward here. i would ask for `7.4` or above because this is what wordpress prefers, but we support down to `7.2`
 
-<div class="c4r-source">Source: [Issue #1618](https://github.com/code4recovery/12-step-meeting-list/issues/1618)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1618">Issue #1618</a></div>
 
 </details>
 
@@ -2169,7 +2169,7 @@ _No response_
 Fixed! https://github.com/code4recovery/one-page-meeting-list
 Thanks @joshreisner !
 
-<div class="c4r-source">Source: [Issue #1698](https://github.com/code4recovery/12-step-meeting-list/issues/1698)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1698">Issue #1698</a></div>
 
 </details>
 
@@ -2188,7 +2188,7 @@ https://www.loom.com/share/bac5bf14c9644d04b1f06b8083be2b78
 
 Hi Julien, I'm looking into this, but looking at the code it appears by-design that the contacts only display for logged-in users. I will attempt to confirm this with the rest of the team, and get back to you soon.
 
-<div class="c4r-source">Source: [Discussion #884](https://github.com/code4recovery/12-step-meeting-list/discussions/884)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/884">Discussion #884</a></div>
 
 </details>
 

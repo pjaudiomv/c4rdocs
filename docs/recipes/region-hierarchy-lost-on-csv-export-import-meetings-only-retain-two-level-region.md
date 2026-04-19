@@ -8,7 +8,7 @@ tags: ["recipe", "getting-started"]
 
 # Region Hierarchy Lost on CSV Export/Import; Meetings Only Retain Two-Level Region Arrays
 
-> Getting Started • [Issue #1864](https://github.com/code4recovery/12-step-meeting-list/issues/1864) • _answer by @joshreisner_
+> Getting Started • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1864">Issue #1864</a> • _answer by @joshreisner_
 
 ## The question
 

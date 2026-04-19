@@ -8,7 +8,7 @@ tags: ["recipe", "tsml-ui"]
 
 # Column headings in TSML UI are not translated
 
-> TSML UI & Data Feed • [Issue #1414](https://github.com/code4recovery/12-step-meeting-list/issues/1414) • _answer by @pjaudiomv_
+> TSML UI & Data Feed • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1414">Issue #1414</a> • _answer by @pjaudiomv_
 
 ## The question
 

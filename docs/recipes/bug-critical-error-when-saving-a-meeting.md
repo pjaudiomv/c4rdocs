@@ -8,7 +8,7 @@ tags: ["recipe", "meetings"]
 
 # [Bug]: Critical Error when saving a meeting
 
-> Managing Meetings • [Discussion #1534](https://github.com/code4recovery/12-step-meeting-list/discussions/1534) • _answer by @joshreisner_
+> Managing Meetings • <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1534">Discussion #1534</a> • _answer by @joshreisner_
 
 ## The question
 

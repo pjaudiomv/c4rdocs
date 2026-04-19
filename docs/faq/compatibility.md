@@ -54,7 +54,7 @@ add_action('admin_enqueue_scripts', function () \{
 \});
 ```
 
-<div class="c4r-source">Source: [Discussion #1239](https://github.com/code4recovery/12-step-meeting-list/discussions/1239)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1239">Discussion #1239</a></div>
 
 </details>
 
@@ -84,7 +84,7 @@ You can ususually add a new item, and select &gt; Meetings &gt; Post type archiv
 
 ![Screen Shot 2021-08-04 at 9 04 53 AM](https://user-images.githubusercontent.com/1551689/128215254-b5869796-caa5-4b6f-9fff-a9951bc8b46b.png)
 
-<div class="c4r-source">Source: [Discussion #492](https://github.com/code4recovery/12-step-meeting-list/discussions/492)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/492">Discussion #492</a></div>
 
 </details>
 
@@ -102,7 +102,7 @@ Each night the link to our Meetings page is lost. This started with the latest u
 
 @AkronAAIT fyi `3.14.15` is out now and should hopefully resolve the issue for you. while we never determined the cause, deploying it to the other affected site appears to have resolved it for them
 
-<div class="c4r-source">Source: [Discussion #1130](https://github.com/code4recovery/12-step-meeting-list/discussions/1130)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1130">Discussion #1130</a></div>
 
 </details>
 
@@ -152,7 +152,7 @@ Fixed in `v3.19.8`.
 
 (see commit [here](https://github.com/code4recovery/12-step-meeting-list/pull/1816/commits/7388f512070f4fa5a9832eb2b0f1dd188116b20c))
 
-<div class="c4r-source">Source: [Discussion #1819](https://github.com/code4recovery/12-step-meeting-list/discussions/1819)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1819">Discussion #1819</a></div>
 
 </details>
 
@@ -192,7 +192,7 @@ I did append that to your domain ( to make `https://anchorageaa.org/?post_type=t
 
 My first guess is to try clearing cache for the server, and refresh permalinks (Settings--&gt;Permalinks--&gt;Save Changes) and see if either of those steps help.
 
-<div class="c4r-source">Source: [Issue #308](https://github.com/code4recovery/12-step-meeting-list/issues/308)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/308">Issue #308</a></div>
 
 </details>
 
@@ -246,7 +246,7 @@ Please let me know what you find out.
 
 see #331
 
-<div class="c4r-source">Source: [Issue #332](https://github.com/code4recovery/12-step-meeting-list/issues/332)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/332">Issue #332</a></div>
 
 </details>
 
@@ -326,7 +326,7 @@ if (!function_exists('tsml_define_strings')) \{
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #548](https://github.com/code4recovery/12-step-meeting-list/discussions/548)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/548">Discussion #548</a></div>
 
 </details>
 
@@ -350,7 +350,7 @@ we removed the variables that it's checking here, so if you remove the if statem
 
 but i'd recommend syncing the entire file. is this something you can take on?
 
-<div class="c4r-source">Source: [Discussion #1771](https://github.com/code4recovery/12-step-meeting-list/discussions/1771)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1771">Discussion #1771</a></div>
 
 </details>
 

@@ -45,7 +45,7 @@ try adding the `:not` selector like this:
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #922](https://github.com/code4recovery/12-step-meeting-list/discussions/922)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/922">Discussion #922</a></div>
 
 </details>
 
@@ -76,7 +76,7 @@ Thank you.
 Hi @Grateful-Viv,
 In reviewing this discussion topic with the maintenance team, I learned that by design the Location Information "**Location Notes**" field should only be used for physical location information that pertains to the building (i.e. "Please enter from the parking lot on the northeast side") which would be useful information for all groups meeting at the same location. Group meeting information that is specific to an individual group (i.e. "Group meets in the main Board Room") should be noted in the Meeting Information  "**Notes**" field.  So (by design) most changes made to the Location Information will affect the display of all meetings at the same physical location.  So you're work-around is the way the software is designed to work. I hope this answers you're question.
 
-<div class="c4r-source">Source: [Discussion #685](https://github.com/code4recovery/12-step-meeting-list/discussions/685)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/685">Discussion #685</a></div>
 
 </details>
 
@@ -101,7 +101,7 @@ On Feb 20, 2022, 10:28 AM -0800, code4recovery/12-step-meeting-list ***@***.***&
 &gt;
 &gt; @media screen and (min-width: 768px) \{div#tsml #meetings .types \{ display: table-cell !important; \}\}
 
-<div class="c4r-source">Source: [Discussion #696](https://github.com/code4recovery/12-step-meeting-list/discussions/696)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/696">Discussion #696</a></div>
 
 </details>
 
@@ -130,7 +130,7 @@ I'm not sure I have a great answer for you. I think someone a while back looked 
 
 However, you may be interested in the new listing of meetings we're working on, TSML UI. It displays the next upcoming meeting first on the page. Currently you could create a page, and use the short code [tsml_ui]. However, we do have a member that's working on making this an option on the settings page, so you will be able to choose whether your meetings page uses the current way of showing meetings, or the new way. There are a few sites currently using the new way, and you can see a demo here: https://demo.code4recovery.org/tsml-ui
 
-<div class="c4r-source">Source: [Discussion #726](https://github.com/code4recovery/12-step-meeting-list/discussions/726)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/726">Discussion #726</a></div>
 
 </details>
 
@@ -180,7 +180,7 @@ hi @Grateful-Viv this is something you can actually do now in TSML UI by adding 
 
 we're talking about it internally but currently it's TSML UI-only
 
-<div class="c4r-source">Source: [Discussion #806](https://github.com/code4recovery/12-step-meeting-list/discussions/806)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/806">Discussion #806</a></div>
 
 </details>
 
@@ -204,7 +204,7 @@ When I click on a particular meeting, the Suite number is missing.  However when
 
 please reach out to the General Service Office at appsupport@aa.org for questions about the Meeting Guide app.
 
-<div class="c4r-source">Source: [Discussion #980](https://github.com/code4recovery/12-step-meeting-list/discussions/980)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/980">Discussion #980</a></div>
 
 </details>
 
@@ -236,7 +236,7 @@ hi @nataliefaith2 you can set your time zone in WordPress Dashboard &gt; Setting
 
 i see that maps are not loading with this error: `Uncaught Error: Use a public access token (pk.*) with Mapbox GL, not a secret access token (sk.*).` See https://www.mapbox.com/api-documentation/#access-tokens-and-token-scopes
 
-<div class="c4r-source">Source: [Discussion #1128](https://github.com/code4recovery/12-step-meeting-list/discussions/1128)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1128">Discussion #1128</a></div>
 
 </details>
 
@@ -259,7 +259,7 @@ I just took a look at the code that generates the short codes, and I'm not seein
 One of the differences between the newer TSML UI user interface, and the legacy front end is that TSML UL shows upcoming meetings at the top of the list. This might be an alternative for you, as you could link to different URLs that would filter by attendance options. This would be links to other pages, but it would filter as you've indicated.
 Brian W.
 
-<div class="c4r-source">Source: [Discussion #1149](https://github.com/code4recovery/12-step-meeting-list/discussions/1149)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1149">Discussion #1149</a></div>
 
 </details>
 
@@ -307,7 +307,7 @@ great, im glad the in person meetings are fixed
 
 as for the blank space on online meetings, that's how it looks. if you switch to the TSML UI appearance we have a placeholder image there. example: https://aasanjose.org/meetings?meeting=f-f-a-living-sober-unity-group
 
-<div class="c4r-source">Source: [Discussion #1275](https://github.com/code4recovery/12-step-meeting-list/discussions/1275)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1275">Discussion #1275</a></div>
 
 </details>
 
@@ -331,7 +331,7 @@ hm, sorry about that! we'll fix it so it doesn't happen. in the meantime if you 
 
 &lt;img width="347" alt="Screenshot 2024-01-11 at 11 23 18 AM" src="https://github.com/code4recovery/12-step-meeting-list/assets/1551689/73855865-7cfa-42ef-906e-004fa8ba0051"&gt;
 
-<div class="c4r-source">Source: [Discussion #1300](https://github.com/code4recovery/12-step-meeting-list/discussions/1300)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1300">Discussion #1300</a></div>
 
 </details>
 
@@ -355,7 +355,7 @@ gb / intergroup web person
 
 Ah! For posterity & other new users: I believe both [tsml_react] and [tsml_ui] will work as shortcodes to access our latest front end (that we call **TSML UI**) on your custom HTML page. You can also use the **Meetings/Settings/User Interface Display** feature to switch back and forth between it and our standard **Legacy UI** on the default /meetings page. Glad it's working for you now!
 
-<div class="c4r-source">Source: [Discussion #1152](https://github.com/code4recovery/12-step-meeting-list/discussions/1152)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1152">Discussion #1152</a></div>
 
 </details>
 
@@ -381,7 +381,7 @@ Hi Ed!
 
 How is the shortcode inerted into the page? Is it block editor or classic editor or template?
 
-<div class="c4r-source">Source: [Discussion #1134](https://github.com/code4recovery/12-step-meeting-list/discussions/1134)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1134">Discussion #1134</a></div>
 
 </details>
 
@@ -401,7 +401,7 @@ Dougie
 
 hey dougie, yes there is a shortcode called `[tsml_ui]` that is similar to the meetings page
 
-<div class="c4r-source">Source: [Discussion #1154](https://github.com/code4recovery/12-step-meeting-list/discussions/1154)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1154">Discussion #1154</a></div>
 
 </details>
 
@@ -426,7 +426,7 @@ Siter url is https//slaa-memphis.org
 
 hi we see this issue when sites are migrated, the solution usually is to go to settings &gt; permalinks and click save changes (even if you didnt make any changes) you should only have to do this once
 
-<div class="c4r-source">Source: [Discussion #1264](https://github.com/code4recovery/12-step-meeting-list/discussions/1264)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1264">Discussion #1264</a></div>
 
 </details>
 
@@ -453,7 +453,7 @@ they could try the `Use CSS?` option which looks like this: https://aaventuracou
 
 looks like they're using Legacy UI on the main page and have made a number of customizations already
 
-<div class="c4r-source">Source: [Discussion #1687](https://github.com/code4recovery/12-step-meeting-list/discussions/1687)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1687">Discussion #1687</a></div>
 
 </details>
 
@@ -475,7 +475,7 @@ app.js?ver=3.19.1:2  &lt;Router basename="/meetings/"&gt; is not able to match t
 
 @joshreisner thanks for the prompt resolution (Version 3.19.2), it's much appreciated. YiF Simon
 
-<div class="c4r-source">Source: [Discussion #1775](https://github.com/code4recovery/12-step-meeting-list/discussions/1775)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1775">Discussion #1775</a></div>
 
 </details>
 
@@ -535,7 +535,7 @@ Try removing the Widgets from the sidebar and placing a single Text Widget with 
 
 I'll install the theme you use to see if I can troubleshoot this a bit more.
 
-<div class="c4r-source">Source: [Issue #796](https://github.com/code4recovery/12-step-meeting-list/issues/796)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/796">Issue #796</a></div>
 
 </details>
 
@@ -561,7 +561,7 @@ d
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1175](https://github.com/code4recovery/12-step-meeting-list/discussions/1175)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1175">Discussion #1175</a></div>
 
 </details>
 
@@ -595,7 +595,7 @@ maybe try the "Style with CSS?" checkbox? it is designed for a smaller area
 
 &lt;img width="137" alt="Screenshot 2024-05-22 at 7 17 08 AM" src="https://github.com/code4recovery/12-step-meeting-list/assets/1551689/dd89f7ca-0ef0-4cb4-9964-603e6e6df52f"&gt;
 
-<div class="c4r-source">Source: [Discussion #1425](https://github.com/code4recovery/12-step-meeting-list/discussions/1425)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1425">Discussion #1425</a></div>
 
 </details>
 
@@ -628,7 +628,7 @@ it's a bit of work, it means translating the TSML UI language file: https://gith
 
 as well as the types, which follow a different format: https://github.com/code4recovery/spec/blob/main/src/types.php
 
-<div class="c4r-source">Source: [Discussion #1839](https://github.com/code4recovery/12-step-meeting-list/discussions/1839)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1839">Discussion #1839</a></div>
 
 </details>
 
@@ -653,7 +653,7 @@ hi rose, thanks for the extra info! is this the page in question? https://alanon
 
 if so, it sounds like you are looking to be able to pass one or more types to the `tsml_next_meetings` shortcode
 
-<div class="c4r-source">Source: [Discussion #1481](https://github.com/code4recovery/12-step-meeting-list/discussions/1481)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1481">Discussion #1481</a></div>
 
 </details>
 
@@ -677,7 +677,7 @@ You're welcome to customize that page, see the FAQ on how to do that. I think it
 
 The meeting list itself isn't in a shortcode, that would be hard to do technically since it's not just one view, you need to be able to link back from all the sub-pages. We're looking at modernizing the plugin with a fully React-based system which might make that more possible, but it's not on the immediate horizon.
 
-<div class="c4r-source">Source: [Issue #32](https://github.com/code4recovery/12-step-meeting-list/issues/32)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/32">Issue #32</a></div>
 
 </details>
 
@@ -701,7 +701,7 @@ But TSML UI handles past meetings by putting them at the end of the list, so it'
 
 It's not a lot of work to add a class, but I'm not sure it's something that anyone would ever request in TSML UI.
 
-<div class="c4r-source">Source: [Issue #41](https://github.com/code4recovery/12-step-meeting-list/issues/41)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/41">Issue #41</a></div>
 
 </details>
 
@@ -737,7 +737,7 @@ If you wish to experiment, be our guest. I'd also be happy if you wrote up and s
 
 After knocking down a couple more bugs, I do plan to do some more work with TSML and how we handle attendance options for meetings (in-person, online only, hybrid).
 
-<div class="c4r-source">Source: [Issue #202](https://github.com/code4recovery/12-step-meeting-list/issues/202)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/202">Issue #202</a></div>
 
 </details>
 
@@ -765,7 +765,7 @@ Please let us know if you're still having problems with this an we'll try to get
 
 Since you're using the 2014 theme on your site, you'll likely need some CSS to make it full-width. If you could wait a little, we'll have a new version soon with an easy way to toggle between appearances.
 
-<div class="c4r-source">Source: [Issue #310](https://github.com/code4recovery/12-step-meeting-list/issues/310)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/310">Issue #310</a></div>
 
 </details>
 
@@ -801,7 +801,7 @@ There are hundreds of sites with TSML deployed for which the page is displaying 
 
 I have to assume there is something else going on with your site or theme. What theme do you have installed?
 
-<div class="c4r-source">Source: [Issue #307](https://github.com/code4recovery/12-step-meeting-list/issues/307)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/307">Issue #307</a></div>
 
 </details>
 
@@ -824,7 +824,7 @@ Good catch on the active vs inactive. There are two schools of thought, and I’
 
 Not going to try and implement a count. That will remain a feature distinction for TSMLui.
 
-<div class="c4r-source">Source: [Issue #390](https://github.com/code4recovery/12-step-meeting-list/issues/390)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/390">Issue #390</a></div>
 
 </details>
 
@@ -868,7 +868,7 @@ _No response_
 
 @Carlsans Yes, you are correct. Wordpress will automatically create the slug when the Meeting is saved. By default, WordPress uses the Post ID (numerical) to identify the meeting. You can change this behavior by going into your General-&gt;Permalink settings and chaining the format of your Meeting URL. When you receive 404 errors on meetings it usually means your Permalink settings need to be reset by accessing them and saving.
 
-<div class="c4r-source">Source: [Issue #554](https://github.com/code4recovery/12-step-meeting-list/issues/554)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/554">Issue #554</a></div>
 
 </details>
 
@@ -906,7 +906,7 @@ could you check your WP Settings page and see what values it has for site addres
 
 i think it sounds like you also have some type of caching plugin installed, right?
 
-<div class="c4r-source">Source: [Issue #754](https://github.com/code4recovery/12-step-meeting-list/issues/754)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/754">Issue #754</a></div>
 
 </details>
 
@@ -933,7 +933,7 @@ The meetings page still works as expected. Now just waiting to be connected the 
 
 If the problem returns, please try to capture more of the error messages from the console, and perhaps we can look at this closer.
 
-<div class="c4r-source">Source: [Discussion #743](https://github.com/code4recovery/12-step-meeting-list/discussions/743)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/743">Discussion #743</a></div>
 
 </details>
 
@@ -957,7 +957,7 @@ The meeting detail bottom does not appear on either the list page or the detail 
 
 TSML team: perhaps we should create an issue or reopen #686 ?
 
-<div class="c4r-source">Source: [Discussion #768](https://github.com/code4recovery/12-step-meeting-list/discussions/768)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/768">Discussion #768</a></div>
 
 </details>
 
@@ -991,7 +991,7 @@ a better way to solve this but which is slightly more technical is to see if "de
 
 here is one hosting company's instructions on how to do this: https://www.domain.com/help/article/wordpress-how-to-enable-or-disable-wp-debug -- around step 5 the instructions are worth reading
 
-<div class="c4r-source">Source: [Discussion #1093](https://github.com/code4recovery/12-step-meeting-list/discussions/1093)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1093">Discussion #1093</a></div>
 
 </details>
 
@@ -1031,7 +1031,7 @@ add_hook('init', function () \{
 
 thanks for the insight! another option i've found that works in some cases is to add customizations to `wp-config.php` since that file is never overwritten
 
-<div class="c4r-source">Source: [Discussion #1590](https://github.com/code4recovery/12-step-meeting-list/discussions/1590)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1590">Discussion #1590</a></div>
 
 </details>
 

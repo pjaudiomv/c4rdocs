@@ -63,7 +63,7 @@ v3.11 strives to make significant improvements in how we handle the myriad atten
 
 My best suggestion is to roll your changes back and let the TSML approach work as designed. This will also help ensure your meetings reflect correctly in Meeting Guide.
 
-<div class="c4r-source">Source: [Discussion #453](https://github.com/code4recovery/12-step-meeting-list/discussions/453)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/453">Discussion #453</a></div>
 
 </details>
 
@@ -115,7 +115,7 @@ Reply to this email directly, view it on GitHub&lt;https://github.com/code4recov
 Triage notifications on the go with GitHub Mobile for iOS&lt;https://apps.apple.com/app/apple-store/id1477376905?ct=notification-email&mt=8&pt=524675&gt; or Android&lt;https://play.google.com/store/apps/details?id=com.github.android&referrer=utm_campaign%3Dnotification-email%26utm_medium%3Demail%26utm_source%3Dgithub&gt;.
 You are receiving this because you authored the thread.Message ID: ***@***.******@***.***&gt;&gt;
 
-<div class="c4r-source">Source: [Discussion #645](https://github.com/code4recovery/12-step-meeting-list/discussions/645)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/645">Discussion #645</a></div>
 
 </details>
 
@@ -143,7 +143,7 @@ The short answer is we don't directly support what you're requesting, and I don'
 
 The simplest solution is for the end user to make a screen cap of the filtered meeting list, and then print that to a PDF.  Make sense?
 
-<div class="c4r-source">Source: [Discussion #650](https://github.com/code4recovery/12-step-meeting-list/discussions/650)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/650">Discussion #650</a></div>
 
 </details>
 
@@ -195,7 +195,7 @@ BTW, I'm glad you're coming here for help, but please don't open issues. As the 
 
 Thanks.
 
-<div class="c4r-source">Source: [Discussion #733](https://github.com/code4recovery/12-step-meeting-list/discussions/733)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/733">Discussion #733</a></div>
 
 </details>
 
@@ -250,7 +250,7 @@ if (!function_exists('tsml_import_reformat')) \{
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1078](https://github.com/code4recovery/12-step-meeting-list/discussions/1078)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1078">Discussion #1078</a></div>
 
 </details>
 
@@ -268,7 +268,7 @@ Is it possible to use a Google calendar as a JSON data source to automatically p
 
 Hi @lewiskerns, I don't believe we support pulling a Google calendar json file directly, but we do have support for Importing Google Sheets. You can see documentation on our website at [https://sheets.code4recovery.org/](https://sheets.code4recovery.org/). Let us know if this is what your looking for.
 
-<div class="c4r-source">Source: [Discussion #1143](https://github.com/code4recovery/12-step-meeting-list/discussions/1143)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1143">Discussion #1143</a></div>
 
 </details>
 
@@ -298,7 +298,7 @@ anyway, to answer your question, you can concat the `type` with a comma in your 
 
 &lt;img width="1728" alt="Screenshot 2024-10-09 at 3 08 06 PM" src="https://github.com/user-attachments/assets/c1e15b7d-b2a3-4222-9e81-e764f9c2e1f6"&gt;
 
-<div class="c4r-source">Source: [Discussion #1537](https://github.com/code4recovery/12-step-meeting-list/discussions/1537)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1537">Discussion #1537</a></div>
 
 </details>
 
@@ -360,7 +360,7 @@ $tsml_ui_config = [
 ];
 ```
 
-<div class="c4r-source">Source: [Discussion #1922](https://github.com/code4recovery/12-step-meeting-list/discussions/1922)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1922">Discussion #1922</a></div>
 
 </details>
 
@@ -382,7 +382,7 @@ Do your meetings have types selected? The only way I was able to recreate this o
 
 Brian W.
 
-<div class="c4r-source">Source: [Discussion #583](https://github.com/code4recovery/12-step-meeting-list/discussions/583)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/583">Discussion #583</a></div>
 
 </details>
 
@@ -406,7 +406,7 @@ If you’re still stuck, please edit your question and we’ll take a closer loo
 
 Yis, Tim
 
-<div class="c4r-source">Source: [Discussion #590](https://github.com/code4recovery/12-step-meeting-list/discussions/590)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/590">Discussion #590</a></div>
 
 </details>
 
@@ -426,7 +426,7 @@ you can technically do this now, although it's currently only possible with a de
 
 here is in person + lgbt + literature: https://www.nyintergroup.org/meetings/?tsml-day=any&tsml-type=LGBTQ%2CLIT&tsml-attendance_option=in_person
 
-<div class="c4r-source">Source: [Discussion #808](https://github.com/code4recovery/12-step-meeting-list/discussions/808)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/808">Discussion #808</a></div>
 
 </details>
 
@@ -451,7 +451,7 @@ Hi Jodie @jackieoh1, You can view a couple of videos on our [website ](https://c
 2. [List Meetings from Multiple Autonomous Organizations](https://code4recovery.org/how-to-list-meetings-from-multiple-organizations)
 Let us know if you need more help...
 
-<div class="c4r-source">Source: [Discussion #934](https://github.com/code4recovery/12-step-meeting-list/discussions/934)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/934">Discussion #934</a></div>
 
 </details>
 
@@ -477,7 +477,7 @@ URL: https://area82aa.org/meetings/
 
 I just looked at your page and the meetings are listing correctly.
 
-<div class="c4r-source">Source: [Discussion #539](https://github.com/code4recovery/12-step-meeting-list/discussions/539)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/539">Discussion #539</a></div>
 
 </details>
 
@@ -503,7 +503,7 @@ Many thanks in advance for your help and for creating this amazing, user friendl
 
 Hi, I have entered district information for every meeting. Unsure why it’s not showing?
 
-<div class="c4r-source">Source: [Discussion #612](https://github.com/code4recovery/12-step-meeting-list/discussions/612)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/612">Discussion #612</a></div>
 
 </details>
 
@@ -523,7 +523,7 @@ I tried using Chris Toews' plugin, but it didn't give me the layout I need unfor
 
 I should be able to handle that! I moved [your issue](https://github.com/code4recovery/pdf/issues/24) to the PDF project repo
 
-<div class="c4r-source">Source: [Discussion #716](https://github.com/code4recovery/12-step-meeting-list/discussions/716)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/716">Discussion #716</a></div>
 
 </details>
 
@@ -557,7 +557,7 @@ Abby Hoke, Office Manager, DACCAA
 
 hi @aeb-denver-CO ! sounds like it thinks it's on new york time. is the timezone on your site set correctly? check in Wordpress Dashboard &gt; Settings
 
-<div class="c4r-source">Source: [Discussion #897](https://github.com/code4recovery/12-step-meeting-list/discussions/897)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/897">Discussion #897</a></div>
 
 </details>
 
@@ -590,7 +590,7 @@ faith@barnesegroup.com
 html \{ height: auto !important; \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1177](https://github.com/code4recovery/12-step-meeting-list/discussions/1177)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1177">Discussion #1177</a></div>
 
 </details>
 
@@ -614,7 +614,7 @@ I appreciate any help you can offer. I am new to web admin and I don't code, so 
 
 yah, where you set the black color also `background: white;` - this should really bring out the contrast. or you could try the TSML UI appearance, that might also fix it, but i'm not 100% sure
 
-<div class="c4r-source">Source: [Discussion #1458](https://github.com/code4recovery/12-step-meeting-list/discussions/1458)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1458">Discussion #1458</a></div>
 
 </details>
 
@@ -634,7 +634,7 @@ But I am not sure what parameters I would use to exclude Online and Inactive mee
 
 Try https://sca-recovery.org/WP/meetings/?tsml-attendance_option=in_person to see if that works for you.
 
-<div class="c4r-source">Source: [Discussion #1621](https://github.com/code4recovery/12-step-meeting-list/discussions/1621)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1621">Discussion #1621</a></div>
 
 </details>
 
@@ -656,7 +656,7 @@ As soon as the day filter is selected, it's no longer visible. See this link: ht
 
 ok should be fixed now thanks to some quick work by @pjaudiomv 🙏 🏅
 
-<div class="c4r-source">Source: [Discussion #1837](https://github.com/code4recovery/12-step-meeting-list/discussions/1837)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1837">Discussion #1837</a></div>
 
 </details>
 
@@ -741,7 +741,7 @@ Proposed.
 			],
 		],
 
-<div class="c4r-source">Source: [Issue #169](https://github.com/code4recovery/12-step-meeting-list/issues/169)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/169">Issue #169</a></div>
 
 </details>
 
@@ -791,7 +791,7 @@ ok here's how i would do it - there are likely to be several ways to do this tho
 print_r(wp_remote_get('https://www.d35pa-aa.org/wp-admin/admin-ajax.php?action=meetings&key=c092a973561757a0f800a6bc5822dd2a'));
 ```
 
-<div class="c4r-source">Source: [Discussion #782](https://github.com/code4recovery/12-step-meeting-list/discussions/782)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/782">Discussion #782</a></div>
 
 </details>
 
@@ -840,7 +840,7 @@ no, it's a conscious decision not to include "switch to districts" functionality
 
 you can still search for districts using keyword search
 
-<div class="c4r-source">Source: [Discussion #856](https://github.com/code4recovery/12-step-meeting-list/discussions/856)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/856">Discussion #856</a></div>
 
 </details>
 
@@ -873,7 +873,7 @@ $tsml_conference_providers = array_merge($tsml_conference_providers, [
 
 Then the button will say "Join with Invitation Only" and link to the page you just created.
 
-<div class="c4r-source">Source: [Discussion #1037](https://github.com/code4recovery/12-step-meeting-list/discussions/1037)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1037">Discussion #1037</a></div>
 
 </details>
 
@@ -896,7 +896,7 @@ Hi Wendy, sounds like you're asking about TSML UI not supporting the "switch to 
 
 If so, we don't currently have a plan to implement that feature in TSML UI, but believe that it should be able to work around this limitation pretty easily in your own site navigation - if you could share a link to your website we can better advise
 
-<div class="c4r-source">Source: [Discussion #1158](https://github.com/code4recovery/12-step-meeting-list/discussions/1158)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1158">Discussion #1158</a></div>
 
 </details>
 
@@ -940,7 +940,7 @@ also while "hybrid" is the prevailing term for this type of meeting among member
 
 at any rate, i'll flag this for the other developers, perhaps they have more to say on the matter!
 
-<div class="c4r-source">Source: [Discussion #1171](https://github.com/code4recovery/12-step-meeting-list/discussions/1171)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1171">Discussion #1171</a></div>
 
 </details>
 
@@ -977,7 +977,7 @@ if (function_exists('tsml_custom_types')) \{
 \}
 ```
 
-<div class="c4r-source">Source: [Discussion #1394](https://github.com/code4recovery/12-step-meeting-list/discussions/1394)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1394">Discussion #1394</a></div>
 
 </details>
 
@@ -1010,7 +1010,7 @@ one approach the web servant could take to add back this feature without searchi
 
 &lt;img width="439" alt="Screenshot 2024-08-03 at 12 34 09 PM" src="https://github.com/user-attachments/assets/90918220-5809-42e0-b5d7-8366e9ecb17c"&gt;
 
-<div class="c4r-source">Source: [Discussion #1479](https://github.com/code4recovery/12-step-meeting-list/discussions/1479)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1479">Discussion #1479</a></div>
 
 </details>
 
@@ -1043,7 +1043,7 @@ If you are suggesting this for the app, you might email GSO App support with the
 
 If you are suggesting this related to the emails generated by the 'Meeting Feedback' buttons in the plugin or TSML-UI, let us know and  we can certainly open up an issue in the appropriate repo.
 
-<div class="c4r-source">Source: [Discussion #1647](https://github.com/code4recovery/12-step-meeting-list/discussions/1647)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1647">Discussion #1647</a></div>
 
 </details>
 
@@ -1094,7 +1094,7 @@ msgfmt 12-step-meeting-list-fr_CA.po -o 12-step-meeting-list-fr_CA.mo
 cp 12-step-meeting-list-fr_CA.mo  \{WP root\}/wp-content/languages/plugins/12-step-meeting-list-fr_CA.mo
 ```
 
-<div class="c4r-source">Source: [Discussion #1899](https://github.com/code4recovery/12-step-meeting-list/discussions/1899)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1899">Discussion #1899</a></div>
 
 </details>
 
@@ -1118,7 +1118,7 @@ body.tsml .storefront-breadcrumb \{ display: none; \}
 body.tsml #tsml td \{ background-color: transparent; \}
 ```
 
-<div class="c4r-source">Source: [Issue #27](https://github.com/code4recovery/12-step-meeting-list/issues/27)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/27">Issue #27</a></div>
 
 </details>
 
@@ -1142,7 +1142,7 @@ We agree with this, and I have created an issue to get it worked on. We’ll fig
 
 Hard to believe this has gone for so long without being caught! :-)
 
-<div class="c4r-source">Source: [Discussion #586](https://github.com/code4recovery/12-step-meeting-list/discussions/586)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/586">Discussion #586</a></div>
 
 </details>
 
@@ -1162,7 +1162,7 @@ hi @dougie-wougie there's more info here - https://github.com/code4recovery/12-s
 
 for example, if this is an area site, you could have district pages that link to the meeting finder with the search term for that district applied. let us know if you have trouble implementing that, we're happy to help! but we feel certain that the "Switch to Districts" option does not belong in the menu with the regions, and that's not a feature that we're currently planning to add to TSML UI.
 
-<div class="c4r-source">Source: [Discussion #1835](https://github.com/code4recovery/12-step-meeting-list/discussions/1835)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1835">Discussion #1835</a></div>
 
 </details>
 
@@ -1184,7 +1184,7 @@ I thought it was a useful feature so figured I'd bring it here.
 
 This was actually a feature in 1.0, but users complained that it wasn't intuitive because it didn't match the behavior of the other dropdowns. I will see if I can implement it with a modifier key though, the command key is standard on macs for multiple selection.
 
-<div class="c4r-source">Source: [Issue #28](https://github.com/code4recovery/12-step-meeting-list/issues/28)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/28">Issue #28</a></div>
 
 </details>
 
@@ -1229,7 +1229,7 @@ In the past what I've done is held down the command key (on mac, different on wi
 
 Not exactly sure where the prev / next links would go. Theoretically in the bottom left / bottom right corners of the screen I'm guessing?
 
-<div class="c4r-source">Source: [Issue #53](https://github.com/code4recovery/12-step-meeting-list/issues/53)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/53">Issue #53</a></div>
 
 </details>
 
@@ -1268,7 +1268,7 @@ In the same way that https://spis.aa.org.pl/index.php/meetings/?tsml-day=any&tsm
 
 What I'm saying is, I think we need to dig into the filtering to see what's going on, but probably not change the data structure.
 
-<div class="c4r-source">Source: [Issue #64](https://github.com/code4recovery/12-step-meeting-list/issues/64)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/64">Issue #64</a></div>
 
 </details>
 
@@ -1351,7 +1351,7 @@ https://github.com/code4recovery/12-step-meeting-list/blob/90d5d6c879571b8e4dddd
 
 For now though you should check to see if you have any meetings with no address and see if you can give them one.
 
-<div class="c4r-source">Source: [Issue #73](https://github.com/code4recovery/12-step-meeting-list/issues/73)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/73">Issue #73</a></div>
 
 </details>
 
@@ -1381,7 +1381,7 @@ Things are not as clear as I thought. Investigating your site I see the issue yo
 
 What custom styling do you have loading?
 
-<div class="c4r-source">Source: [Issue #101](https://github.com/code4recovery/12-step-meeting-list/issues/101)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/101">Issue #101</a></div>
 
 </details>
 
@@ -1399,7 +1399,7 @@ My intergroup would prefer if meetings that are temporarily closed had their add
 
 Hey @FlipperPA the app puts a gray background on meetings that are both TC and with no meeting option, but that's not what this request is, this is simply to strike through and mute the color on the TC addresses themselves.
 
-<div class="c4r-source">Source: [Issue #109](https://github.com/code4recovery/12-step-meeting-list/issues/109)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/109">Issue #109</a></div>
 
 </details>
 
@@ -1454,7 +1454,7 @@ I am not able to reproduce your issue with this version of TSML or the last one,
 Are you still having the issue?
 Please confirm your versions of TSML and Wordpress.
 
-<div class="c4r-source">Source: [Issue #165](https://github.com/code4recovery/12-step-meeting-list/issues/165)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/165">Issue #165</a></div>
 
 </details>
 
@@ -1489,7 +1489,7 @@ define( 'SAVEQUERIES', true );
 ```
 Does you hosting provider allow you to create a second staging/test site?
 
-<div class="c4r-source">Source: [Issue #170](https://github.com/code4recovery/12-step-meeting-list/issues/170)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/170">Issue #170</a></div>
 
 </details>
 
@@ -1514,7 +1514,7 @@ What do you have here?
 
 &lt;img width="181" alt="image" src="https://user-images.githubusercontent.com/31904316/96377081-929cd000-1148-11eb-8fdb-b2d285b0065d.png"&gt;
 
-<div class="c4r-source">Source: [Issue #189](https://github.com/code4recovery/12-step-meeting-list/issues/189)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/189">Issue #189</a></div>
 
 </details>
 
@@ -1545,7 +1545,7 @@ What languages? PHP and Wordpress, by chance?
 -Tim
 _Mediocre Developer, Expert Coffee Drinker_
 
-<div class="c4r-source">Source: [Issue #206](https://github.com/code4recovery/12-step-meeting-list/issues/206)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/206">Issue #206</a></div>
 
 </details>
 
@@ -1573,7 +1573,7 @@ My suggestion is to consider setting up a couple of trusted agents to access the
 
 Code for Recovery will be releasing a [new product](https://github.com/code4recovery/react) (it may be available now with limited support) that is based on ReactJS vice Wordpress. This tool will make use of spreadsheets (i.e., Google Docs today) to manage and provide meetings to the front end. This may provide another option for you.
 
-<div class="c4r-source">Source: [Issue #227](https://github.com/code4recovery/12-step-meeting-list/issues/227)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/227">Issue #227</a></div>
 
 </details>
 
@@ -1627,7 +1627,7 @@ What other information would be useful to you?
 
 Thanks for your assistance.
 
-<div class="c4r-source">Source: [Issue #229](https://github.com/code4recovery/12-step-meeting-list/issues/229)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/229">Issue #229</a></div>
 
 </details>
 
@@ -1662,7 +1662,7 @@ You could show in-person meetings by adding a type to the list of types (it says
 
 Brian W.
 
-<div class="c4r-source">Source: [Issue #340](https://github.com/code4recovery/12-step-meeting-list/issues/340)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/340">Issue #340</a></div>
 
 </details>
 
@@ -1693,7 +1693,7 @@ in all likelihood, what you want to do is add a custom meeting type to your loca
 
 the code for that goes in your theme's functions.php code
 
-<div class="c4r-source">Source: [Issue #342](https://github.com/code4recovery/12-step-meeting-list/issues/342)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/342">Issue #342</a></div>
 
 </details>
 
@@ -1728,7 +1728,7 @@ You should add your online meetings with your other meetings.  As long as the UR
 
 Then you can filter just the online meetings to display.
 
-<div class="c4r-source">Source: [Issue #353](https://github.com/code4recovery/12-step-meeting-list/issues/353)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/353">Issue #353</a></div>
 
 </details>
 
@@ -1772,7 +1772,7 @@ Imperfect, yes. But it is the best we have.
 
 Thanks for your understanding and cooperation.
 
-<div class="c4r-source">Source: [Issue #651](https://github.com/code4recovery/12-step-meeting-list/issues/651)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/651">Issue #651</a></div>
 
 </details>
 
@@ -1791,7 +1791,7 @@ Hello y'all, when we're looking at the new list, if there is a selection that pr
 Hello @NYIGCommunications,
 Excuse me, I'm a little confused with your question! When you say "new list", are you referring to the **TSML UI** User Interface Display which is set on our Settings page? If you are, I will need to transfer this issue to the "TSML UI" issue page so it get's visibility to our team members who ### handle issues that come up with the TSML UI interface. This is the Issue listings for things that come up with our "12 Step Meeting List Feedback Enhancement" plugin.
 
-<div class="c4r-source">Source: [Issue #845](https://github.com/code4recovery/12-step-meeting-list/issues/845)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/845">Issue #845</a></div>
 
 </details>
 
@@ -1841,7 +1841,7 @@ meanwhile this issue was about the search typeahead dropdown not linking to regi
 
 if you're experience an issue now, please [start a new discussion](https://github.com/code4recovery/12-step-meeting-list/discussions/new?category=q-a) and be specific about what's not working, thanks
 
-<div class="c4r-source">Source: [Issue #1706](https://github.com/code4recovery/12-step-meeting-list/issues/1706)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1706">Issue #1706</a></div>
 
 </details>
 
@@ -1865,7 +1865,7 @@ Please check out and contribute to our [https://github.com/code4recovery/tsml-ui
 
 I have thought about a React-based backend/meeting management tool, but our current focus is on making TSMLui work with spreadsheets for tracking and managing meeting information.
 
-<div class="c4r-source">Source: [Discussion #514](https://github.com/code4recovery/12-step-meeting-list/discussions/514)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/514">Discussion #514</a></div>
 
 </details>
 
@@ -1899,7 +1899,7 @@ Latest (default)
 
 A filter would be a good solution. Like Tim said, most would not use but adding a filter around the rewrite array would allow you to override - https://developer.wordpress.org/reference/functions/register_taxonomy
 
-<div class="c4r-source">Source: [Discussion #964](https://github.com/code4recovery/12-step-meeting-list/discussions/964)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/964">Discussion #964</a></div>
 
 </details>
 
@@ -1945,7 +1945,7 @@ _No response_
 
 We can hide them from the front end as @mdavoli pointed out. The flip side is we support them and rewrite the URL to open TSML-UI with the appropriate filters pre-selected i.e. ?region=altamonte-springs
 
-<div class="c4r-source">Source: [Discussion #963](https://github.com/code4recovery/12-step-meeting-list/discussions/963)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/963">Discussion #963</a></div>
 
 </details>
 
@@ -1966,7 +1966,7 @@ i _think_ you should be able to do that? we typically deactivate meeting by sett
 
 &lt;img width="1743" alt="Screenshot 2023-04-05 at 10 56 44 AM" src="https://user-images.githubusercontent.com/1551689/230164334-4133d968-e04c-45f3-88b8-b50cb1afcebb.png"&gt;
 
-<div class="c4r-source">Source: [Discussion #1112](https://github.com/code4recovery/12-step-meeting-list/discussions/1112)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1112">Discussion #1112</a></div>
 
 </details>
 
@@ -1997,7 +1997,7 @@ Could you be more specific on what else you would like to see?
 
 BTW, I think the Z-order is off on your footer, since the dropdown is drawn 'under' the footer and difficult to use. It's easy enough to select 'Anywhere' to get access to the entire dropdown again. You might see if you can set the z-order of the footer to be higher.
 
-<div class="c4r-source">Source: [Discussion #1256](https://github.com/code4recovery/12-step-meeting-list/discussions/1256)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1256">Discussion #1256</a></div>
 
 </details>
 
@@ -2028,7 +2028,7 @@ This isn't the ultimate solution, but just to help troubleshoot at bit, would yo
         &lt;script src="https://tsml-ui.code4recovery.org/app.js" async&gt;&lt;/script&gt;
 ```
 
-<div class="c4r-source">Source: [Discussion #1258](https://github.com/code4recovery/12-step-meeting-list/discussions/1258)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1258">Discussion #1258</a></div>
 
 </details>
 
@@ -2061,7 +2061,7 @@ define( 'WP_DEBUG', false );
 
 we'll be releasing a fix soon for this issue as well so you'll be able to have debug mode enabled and not see this message
 
-<div class="c4r-source">Source: [Discussion #1581](https://github.com/code4recovery/12-step-meeting-list/discussions/1581)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1581">Discussion #1581</a></div>
 
 </details>
 
@@ -2083,7 +2083,7 @@ I guess I'm a little surprised that we've not been asked this before, but it is 
 
 Are you feeding (or planning to feed) AA meetings into Meeting Guide. That may pose a problem if you're using a single website for multiple programs.
 
-<div class="c4r-source">Source: [Discussion #960](https://github.com/code4recovery/12-step-meeting-list/discussions/960)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/960">Discussion #960</a></div>
 
 </details>
 

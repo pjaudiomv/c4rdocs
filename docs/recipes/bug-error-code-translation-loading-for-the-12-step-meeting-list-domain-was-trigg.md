@@ -8,7 +8,7 @@ tags: ["recipe", "languages"]
 
 # [Bug]: Error code: "Translation loading for the 12-step-meeting-list domain was triggered too early."
 
-> Languages & Translation • [Issue #1582](https://github.com/code4recovery/12-step-meeting-list/issues/1582) • _answer by @joshreisner_
+> Languages & Translation • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1582">Issue #1582</a> • _answer by @joshreisner_
 
 ## The question
 

@@ -8,7 +8,7 @@ tags: ["recipe", "online-meetings"]
 
 # Changing meetings from live to Zoom only - then shows Temporarily Inactive
 
-> Online & Hybrid Meetings • [Discussion #563](https://github.com/code4recovery/12-step-meeting-list/discussions/563) • _answer by @tech2serve_
+> Online & Hybrid Meetings • <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/563">Discussion #563</a> • _answer by @tech2serve_
 
 ## The question
 

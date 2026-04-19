@@ -8,7 +8,7 @@ tags: ["recipe", "performance"]
 
 # [Bug]:
 
-> Performance & Caching • [Issue #1730](https://github.com/code4recovery/12-step-meeting-list/issues/1730) • _answer by @joshreisner_
+> Performance & Caching • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1730">Issue #1730</a> • _answer by @joshreisner_
 
 ## The question
 

@@ -42,7 +42,7 @@ ok should be fixed now ✅  - you may need to refresh your browser
 
 &lt;img width="467" alt="Screenshot 2025-06-01 at 7 54 03 AM" src="https://github.com/user-attachments/assets/86983926-5ce7-421a-81c8-f7e18f722777" /&gt;
 
-<div class="c4r-source">Source: [Discussion #1685](https://github.com/code4recovery/12-step-meeting-list/discussions/1685)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1685">Discussion #1685</a></div>
 
 </details>
 
@@ -107,7 +107,7 @@ i would reach out to the ABQ web servant and see if they can add your IP (35.209
 
 i'm going to move this issue to a discussion - we ask people to make discussions rather than issues until we can identify a specific action to take
 
-<div class="c4r-source">Source: [Issue #1730](https://github.com/code4recovery/12-step-meeting-list/issues/1730)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1730">Issue #1730</a></div>
 
 </details>
 
@@ -146,7 +146,7 @@ Please check the backend admin page and search for any Sunday meetings in your d
 
 Let me know.
 
-<div class="c4r-source">Source: [Issue #257](https://github.com/code4recovery/12-step-meeting-list/issues/257)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/issues/257">Issue #257</a></div>
 
 </details>
 
@@ -176,7 +176,7 @@ next time it happens, can you take a screenshot? that might tell us something. a
 
 the image you attached says "the any type meeting feature is down" - is that related?
 
-<div class="c4r-source">Source: [Discussion #1681](https://github.com/code4recovery/12-step-meeting-list/discussions/1681)</div>
+<div class="c4r-source">Source: <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1681">Discussion #1681</a></div>
 
 </details>
 

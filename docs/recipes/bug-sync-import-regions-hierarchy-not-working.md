@@ -8,7 +8,7 @@ tags: ["recipe", "import-export"]
 
 # [Bug]: Sync/Import - Regions hierarchy not working
 
-> Import & Export • [Issue #809](https://github.com/code4recovery/12-step-meeting-list/issues/809) • _answer by @joshreisner_
+> Import & Export • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/809">Issue #809</a> • _answer by @joshreisner_
 
 ## The question
 

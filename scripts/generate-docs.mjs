@@ -52,8 +52,10 @@ function fmFrontmatter(fields) {
 }
 
 function sourceBadge(e) {
+  // Emitted as raw HTML so it renders inside <div> blocks (CommonMark doesn't
+  // parse [text](url) links inside inline HTML tags).
   const label = e.type === 'discussion' ? `Discussion #${e.number}` : `Issue #${e.number}`;
-  return `[${label}](${e.url})`;
+  return `<a href="${e.url}">${label}</a>`;
 }
 
 // Turn a raw markdown body (user-authored) into something safe to inline inside MDX.

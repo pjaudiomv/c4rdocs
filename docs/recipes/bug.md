@@ -8,7 +8,7 @@ tags: ["recipe", "development"]
 
 # [Bug]:
 
-> Development & Hooks • [Issue #593](https://github.com/code4recovery/12-step-meeting-list/issues/593) • _answer by @masterlifter_
+> Development & Hooks • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/593">Issue #593</a> • _answer by @masterlifter_
 
 ## The question
 

@@ -8,7 +8,7 @@ tags: ["recipe", "meetings"]
 
 # Name of meeting not presenting in "meeting" pages
 
-> Managing Meetings • [Issue #1763](https://github.com/code4recovery/12-step-meeting-list/issues/1763) • _answer by @gkovats_
+> Managing Meetings • <a href="https://github.com/code4recovery/12-step-meeting-list/issues/1763">Issue #1763</a> • _answer by @gkovats_
 
 ## The question
 

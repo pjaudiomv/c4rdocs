@@ -8,7 +8,7 @@ tags: ["recipe", "import-export"]
 
 # Unable to Import from Remote Site
 
-> Import & Export • [Discussion #1731](https://github.com/code4recovery/12-step-meeting-list/discussions/1731) • _answer by @joshreisner_
+> Import & Export • <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1731">Discussion #1731</a> • _answer by @joshreisner_
 
 ## The question
 

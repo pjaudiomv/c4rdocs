@@ -8,7 +8,7 @@ tags: ["recipe", "getting-started"]
 
 # [Bug]: Area 93 District 7 (TSML) pulls meeting info from the Antelope Valley Central Office (CF) - TSML is now rejecting the feed from the CF
 
-> Getting Started • [Discussion #1523](https://github.com/code4recovery/12-step-meeting-list/discussions/1523) • _answer by @joshreisner_
+> Getting Started • <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1523">Discussion #1523</a> • _answer by @joshreisner_
 
 ## The question
 

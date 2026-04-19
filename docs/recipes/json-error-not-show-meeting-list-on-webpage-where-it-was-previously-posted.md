@@ -8,7 +8,7 @@ tags: ["recipe", "troubleshooting"]
 
 # json error, not show meeting list on webpage where it was previously posted
 
-> Troubleshooting • [Discussion #1063](https://github.com/code4recovery/12-step-meeting-list/discussions/1063) • _answer by @tim-rohrer_
+> Troubleshooting • <a href="https://github.com/code4recovery/12-step-meeting-list/discussions/1063">Discussion #1063</a> • _answer by @tim-rohrer_
 
 ## The question
 
